@@ -10,6 +10,8 @@ function smallestIntegers(args) {
   return min;
 }
 
+//Should all print true
+
 console.log(smallestIntegers([78, 56, 232, 12, 8]) === 8);
 console.log(smallestIntegers([78,56,232,12,18]) === 12);
 console.log(smallestIntegers([78,56,232,412,228]) === 56);
