@@ -9,6 +9,7 @@
 | 200 | [Number of Islands][q200]        | [Ruby][s200] | Medium     |
 | 207 | [Course Schedule][q207]          | [Ruby][s207] | Medium     |
 | 221 | [Maximal Square][q221]           | [Ruby][s221] | Medium     |
+| 283 | [Move Zeroes][q283]              | [Ruby][s283] | Medium     |
 | 461 | [Hamming Distance][q461]         | [Ruby][s461] | Easy       |
 | 540 | Single Element in a Sorted Array | [Ruby][s540] | Easy       |
 
@@ -16,6 +17,7 @@
 [q200]:https://leetcode.com/problems/number-of-islands/description/
 [q207]:https://leetcode.com/problems/course-schedule/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
+[q283]:https://leetcode.com/problems/move-zeroes/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 
 [s5]:./longest_palindromic_substring.rb
@@ -25,5 +27,6 @@
 [s200]:./number_of_islands.rb
 [s207]:./course_schedule.rb
 [s221]:./maximal_square.rb
+[s283]:./move_zeroes.rb
 [s461]:./hamming_distance.rb
 [s540]:./single_element_sorted_array.rb
