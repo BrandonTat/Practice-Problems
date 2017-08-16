@@ -15,6 +15,7 @@
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
 | 540 | Single Element in a Sorted Array        | [Ruby][s540] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]| [Ruby][s628] | Easy       |
+| 647 | [Palindromic Substrings][q647]          | [Ruby][s647] | Medium     |
 | 657 | [Judge Route Circle][q657]              | [Ruby][s657] | Easy       |
 
 [q49]:https://leetcode.com/problems/group-anagrams/description/
@@ -26,6 +27,7 @@
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+[q647]:https://leetcode.com/problems/palindromic-substrings/description/
 [q657]:https://leetcode.com/problems/judge-route-circle/description/
 
 [s5]:./longest_palindromic_substring.rb
@@ -41,4 +43,5 @@
 [s461]:./hamming_distance.rb
 [s540]:./single_element_sorted_array.rb
 [s628]:./max_product_of_three_numbers.rb
+[s647]:./palindromic_substrings.rb
 [s657]:./judge_route_circle.rb
