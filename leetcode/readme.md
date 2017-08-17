@@ -14,6 +14,7 @@
 | 367 | [Valid Perfect Square][q367]            | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373] | [Ruby][s373] | Medium     |
 | 414 | [Third Maximum Number][q414]            | [Ruby][s414] | Easy       |
+| 434 | [ Number of Segments in String][q434]   | [Ruby][s434] | Easy       |
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
 | 540 | Single Element in a Sorted Array        | [Ruby][s540] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]| [Ruby][s628] | Easy       |
@@ -29,6 +30,7 @@
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 [q414]:https://leetcode.com/problems/third-maximum-number/description/
+[q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
@@ -46,6 +48,7 @@
 [s367]:./valid_perfect_square.rb
 [s373]:./k_pairs_smallest_sums.rb
 [s414]:./third_maximum_number.rb
+[s434]:./number_segments_in_string.rb
 [s461]:./hamming_distance.rb
 [s540]:./single_element_sorted_array.rb
 [s628]:./max_product_of_three_numbers.rb
