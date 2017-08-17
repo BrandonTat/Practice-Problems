@@ -11,6 +11,7 @@
 | 207 | [Course Schedule][q207]                 | [Ruby][s207] | Medium     |
 | 221 | [Maximal Square][q221]                  | [Ruby][s221] | Medium     |
 | 283 | [Move Zeroes][q283]                     | [Ruby][s283] | Medium     |
+| 367 | [Valid Perfect Square][q367]            | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373] | [Ruby][s373] | Medium     |
 | 414 | [Third Maximum Number][q414]            | [Ruby][s414] | Easy       |
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
@@ -25,6 +26,7 @@
 [q207]:https://leetcode.com/problems/course-schedule/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
+[q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 [q414]:https://leetcode.com/problems/third-maximum-number/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
@@ -41,6 +43,7 @@
 [s207]:./course_schedule.rb
 [s221]:./maximal_square.rb
 [s283]:./move_zeroes.rb
+[s367]:./valid_perfect_square.rb
 [s373]:./k_pairs_smallest_sums.rb
 [s414]:./third_maximum_number.rb
 [s461]:./hamming_distance.rb
