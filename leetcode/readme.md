@@ -12,6 +12,7 @@
 | 221 | [Maximal Square][q221]                  | [Ruby][s221] | Medium     |
 | 283 | [Move Zeroes][q283]                     | [Ruby][s283] | Medium     |
 | 373 | [Find K Pairs with Smallest Sums][q373] | [Ruby][s373] | Medium     |
+| 414 | [Third Maximum Number][q414]            | [Ruby][s414] | Easy       |
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
 | 540 | Single Element in a Sorted Array        | [Ruby][s540] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]| [Ruby][s628] | Easy       |
@@ -25,6 +26,7 @@
 [q221]:https://leetcode.com/problems/maximal-square/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
+[q414]:https://leetcode.com/problems/third-maximum-number/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
@@ -40,6 +42,7 @@
 [s221]:./maximal_square.rb
 [s283]:./move_zeroes.rb
 [s373]:./k_pairs_smallest_sums.rb
+[s414]:./third_maximum_number.rb
 [s461]:./hamming_distance.rb
 [s540]:./single_element_sorted_array.rb
 [s628]:./max_product_of_three_numbers.rb
