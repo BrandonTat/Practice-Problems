@@ -3,7 +3,7 @@
 | #   | Problem                                 | Solution     | Difficulty |
 | --- | --------------------------------------- | ------------ | ---------- |
 | 5   | Longest Palindromic Substring           | [Ruby][s5]   | Medium     |
-| 20  | Valid Parentheses                       | [Ruby][s20]  | Easy       |
+| 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
 | 98  | [Validate BST][q98]                     | [Ruby][s98]  | Medium     |
 | 136 | [Single Number][q136]                   | [Ruby][s136] | Easy       |
@@ -25,6 +25,7 @@
 | 647 | [Palindromic Substrings][q647]          | [Ruby][s647] | Medium     |
 | 657 | [Judge Route Circle][q657]              | [Ruby][s657] | Easy       |
 
+[q20]:https://leetcode.com/problems/valid-parentheses/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [q136]:https://leetcode.com/problems/single-number/description/
