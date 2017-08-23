@@ -13,6 +13,7 @@
 | 207 | [Course Schedule][q207]                 | [Ruby][s207] | Medium     |
 | 217 | [Contains Duplicate][q217]              | [Ruby][s217] | Easy       |
 | 221 | [Maximal Square][q221]                  | [Ruby][s221] | Medium     |
+| 231 | [Power of Two][q231]                    | [Ruby][s231] | Easy       |
 | 283 | [Move Zeroes][q283]                     | [Ruby][s283] | Medium     |
 | 367 | [Valid Perfect Square][q367]            | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373] | [Ruby][s373] | Medium     |
@@ -34,6 +35,7 @@
 [q207]:https://leetcode.com/problems/course-schedule/description/
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
+[q231]:https://leetcode.com/problems/power-of-two/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
@@ -56,6 +58,7 @@
 [s207]:./course_schedule.rb
 [s217]:./contain_duplicate.rb
 [s221]:./maximal_square.rb
+[s231]:./power_of_two.rb
 [s283]:./move_zeroes.rb
 [s367]:./valid_perfect_square.rb
 [s373]:./k_pairs_smallest_sums.rb
