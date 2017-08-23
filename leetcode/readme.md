@@ -5,6 +5,7 @@
 | 5   | Longest Palindromic Substring           | [Ruby][s5]   | Medium     |
 | 20  | Valid Parentheses                       | [Ruby][s20]  | Easy       |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
+| 98  | [Validate BST][q98]                     | [Ruby][s98]  | Medium     |
 | 136 | [Single Number][q136]                   | [Ruby][s136] | Easy       |
 | 155 | Min Stack                               | [Ruby][s155] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]           | [Ruby][s187] | Medium     |
@@ -23,6 +24,7 @@
 | 657 | [Judge Route Circle][q657]              | [Ruby][s657] | Easy       |
 
 [q49]:https://leetcode.com/problems/group-anagrams/description/
+[q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [q136]:https://leetcode.com/problems/single-number/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
 [q200]:https://leetcode.com/problems/number-of-islands/description/
@@ -41,6 +43,7 @@
 [s5]:./longest_palindromic_substring.rb
 [s20]:./valid_parentheses.rb
 [s49]:./group_anagrams.rb
+[s98]:./validate_bst.rb
 [s136]:./single_number.rb
 [s155]:./min_stack.rb
 [s187]:./repeated_dna_sequence.rb
