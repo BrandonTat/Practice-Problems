@@ -12,6 +12,7 @@
 | 136 | [Single Number][q136]                   | [Ruby][s136] | Easy       |
 | 155 | Min Stack                               | [Ruby][s155] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]           | [Ruby][s187] | Medium     |
+| 198 | [House Robber][q198]                    | [Ruby][s198] | Easy       |
 | 200 | [Number of Islands][q200]               | [Ruby][s200] | Medium     |
 | 207 | [Course Schedule][q207]                 | [Ruby][s207] | Medium     |
 | 217 | [Contains Duplicate][q217]              | [Ruby][s217] | Easy       |
@@ -39,6 +40,7 @@
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q136]:https://leetcode.com/problems/single-number/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
+[q198]:https://leetcode.com/problems/house-robber/description/
 [q200]:https://leetcode.com/problems/number-of-islands/description/
 [q207]:https://leetcode.com/problems/course-schedule/description/
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
@@ -67,6 +69,7 @@
 [s136]:./single_number.rb
 [s155]:./min_stack.rb
 [s187]:./repeated_dna_sequence.rb
+[s198]:./house_robber.rb
 [s200]:./number_of_islands.rb
 [s207]:./course_schedule.rb
 [s217]:./contain_duplicate.rb
