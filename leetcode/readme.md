@@ -6,6 +6,7 @@
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
 | 98  | [Validate BST][q98]                     | [Ruby][s98]  | Medium     |
+| 121 | [Best Time to Buy and Sell Stock][q121] | [Ruby][s121] | Easy       |
 | 136 | [Single Number][q136]                   | [Ruby][s136] | Easy       |
 | 155 | Min Stack                               | [Ruby][s155] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]           | [Ruby][s187] | Medium     |
@@ -30,6 +31,7 @@
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
+[q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q136]:https://leetcode.com/problems/single-number/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
 [q200]:https://leetcode.com/problems/number-of-islands/description/
@@ -53,6 +55,7 @@
 [s20]:./valid_parentheses.rb
 [s49]:./group_anagrams.rb
 [s98]:./validate_bst.rb
+[s121]:./buy_and_sell_stock.r
 [s136]:./single_number.rb
 [s155]:./min_stack.rb
 [s187]:./repeated_dna_sequence.rb
