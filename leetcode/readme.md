@@ -5,6 +5,7 @@
 | 5   | Longest Palindromic Substring           | [Ruby][s5]   | Medium     |
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
+| 62  | [Unique Paths][q62]                     | [Ruby][s62]  | Medium     |
 | 98  | [Validate BST][q98]                     | [Ruby][s98]  | Medium     |
 | 121 | [Best Time to Buy and Sell Stock][q121] | [Ruby][s121] | Easy       |
 | 136 | [Single Number][q136]                   | [Ruby][s136] | Easy       |
@@ -31,6 +32,7 @@
 
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
+[q62]:https://leetcode.com/problems/unique-paths/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q136]:https://leetcode.com/problems/single-number/description/
@@ -56,6 +58,7 @@
 [s5]:./longest_palindromic_substring.rb
 [s20]:./valid_parentheses.rb
 [s49]:./group_anagrams.rb
+[s62]:./unique_paths.rb
 [s98]:./validate_bst.rb
 [s121]:./buy_and_sell_stock.r
 [s136]:./single_number.rb
