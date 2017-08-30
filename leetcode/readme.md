@@ -8,6 +8,7 @@
 | 62  | [Unique Paths][q62]                     | [Ruby][s62]  | Medium     |
 | 63  | [Unique Paths II][q63]                  | [Ruby][s63]  | Medium     |
 | 98  | [Validate BST][q98]                     | [Ruby][s98]  | Medium     |
+| 110 | [Balanced Binary Tree][q110]            | [Ruby][s110] | Easy       |
 | 121 | [Best Time to Buy and Sell Stock][q121] | [Ruby][s121] | Easy       |
 | 136 | [Single Number][q136]                   | [Ruby][s136] | Easy       |
 | 155 | Min Stack                               | [Ruby][s155] | Easy       |
@@ -37,6 +38,7 @@
 [q62]:https://leetcode.com/problems/unique-paths/description/
 [q63]:https://leetcode.com/problems/unique-paths-ii/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
+[q110]:https://leetcode.com/problems/balanced-binary-tree/description/
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q136]:https://leetcode.com/problems/single-number/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
@@ -65,6 +67,7 @@
 [s62]:./unique_paths.rb
 [s63]:./unique_paths_2.rb
 [s98]:./validate_bst.rb
+[s110]:./balanced_binary_tree.rb
 [s121]:./buy_and_sell_stock.r
 [s136]:./single_number.rb
 [s155]:./min_stack.rb
