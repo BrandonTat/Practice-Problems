@@ -17,6 +17,7 @@
 | 187 | [Repeated DNA Sequence][q187]           | [Ruby][s187] | Medium     |
 | 198 | [House Robber][q198]                    | [Ruby][s198] | Easy       |
 | 200 | [Number of Islands][q200]               | [Ruby][s200] | Medium     |
+| 203 | [Remove Linked List Elements][q203]     | [Ruby][s203] | Easy       |
 | 207 | [Course Schedule][q207]                 | [Ruby][s207] | Medium     |
 | 217 | [Contains Duplicate][q217]              | [Ruby][s217] | Easy       |
 | 221 | [Maximal Square][q221]                  | [Ruby][s221] | Medium     |
@@ -50,6 +51,7 @@
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
 [q198]:https://leetcode.com/problems/house-robber/description/
 [q200]:https://leetcode.com/problems/number-of-islands/description/
+[q203]:https://leetcode.com/problems/remove-linked-list-elements/discuss/
 [q207]:https://leetcode.com/problems/course-schedule/description/
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
@@ -84,6 +86,7 @@
 [s187]:./repeated_dna_sequence.rb
 [s198]:./house_robber.rb
 [s200]:./number_of_islands.rb
+[s203]:./remove_linked_list_elements.rb
 [s207]:./course_schedule.rb
 [s217]:./contain_duplicate.rb
 [s221]:./maximal_square.rb
