@@ -27,6 +27,7 @@
 | 347 | [Top K Frequent Elements][q347]         | [Ruby][s347] | Medium     |
 | 367 | [Valid Perfect Square][q367]            | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373] | [Ruby][s373] | Medium     |
+| 389 | [Find the Difference][q389]             | [Ruby][s389] | Easy       |
 | 414 | [Third Maximum Number][q414]            | [Ruby][s414] | Easy       |
 | 434 | [Number of Segments in String][q434]    | [Ruby][s434] | Easy       |
 | 437 | [Path Sum III][q437]                    | [Ruby][s437] | Medium     |
@@ -59,6 +60,7 @@
 [q347]:https://leetcode.com/problems/top-k-frequent-elements/description/
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
+[q389]:https://leetcode.com/problems/find-the-difference/description/
 [q414]:https://leetcode.com/problems/third-maximum-number/description/
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [q437]:https://leetcode.com/problems/path-sum-iii/description/
@@ -92,6 +94,7 @@
 [s347]:./k_frequent_elements.rb
 [s367]:./valid_perfect_square.rb
 [s373]:./k_pairs_smallest_sums.rb
+[s389]:./find_the_difference.rb
 [s414]:./third_maximum_number.rb
 [s434]:./number_segments_in_string.rb
 [s437]:./path_sum_3.rb
