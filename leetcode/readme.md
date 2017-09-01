@@ -8,6 +8,7 @@
 | 58  | [Length of Last Word][q58]              | [Ruby][s58]  | Easy       |
 | 62  | [Unique Paths][q62]                     | [Ruby][s62]  | Medium     |
 | 63  | [Unique Paths II][q63]                  | [Ruby][s63]  | Medium     |
+| 64  | [Minimum Path Sum][q64]                 | [Ruby][s64]  | Medium     |
 | 98  | [Validate BST][q98]                     | [Ruby][s98]  | Medium     |
 | 104 | [Maximum depth of Binary Tree][q104]    | [Ruby][s104] | Easy       |
 | 110 | [Balanced Binary Tree][q110]            | [Ruby][s110] | Easy       |
@@ -45,6 +46,7 @@
 [q58]:https://leetcode.com/problems/length-of-last-word/description/
 [q62]:https://leetcode.com/problems/unique-paths/description/
 [q63]:https://leetcode.com/problems/unique-paths-ii/description/
+[q64]:https://leetcode.com/problems/minimum-path-sum/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [q104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [q110]:https://leetcode.com/problems/balanced-binary-tree/description/
@@ -81,6 +83,7 @@
 [s58]:./length_of_last_word.rb
 [s62]:./unique_paths.rb
 [s63]:./unique_paths_2.rb
+[s64]:./minimum_path_sum.rb
 [s98]:./validate_bst.rb
 [s104]:./max_depth_binary_tree.rb
 [s110]:./balanced_binary_tree.rb
