@@ -4,6 +4,7 @@
 | --- | --------------------------------------- | ------------ | ---------- |
 | 5   | Longest Palindromic Substring           | [Ruby][s5]   | Medium     |
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
+| 46  | [Permutations][q46]                     | [Ruby][s46]  | Medium     |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
 | 58  | [Length of Last Word][q58]              | [Ruby][s58]  | Easy       |
 | 62  | [Unique Paths][q62]                     | [Ruby][s62]  | Medium     |
@@ -42,6 +43,7 @@
 | 657 | [Judge Route Circle][q657]              | [Ruby][s657] | Easy       |
 
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
+[q46]:https://leetcode.com/problems/permutations/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
 [q58]:https://leetcode.com/problems/length-of-last-word/description/
 [q62]:https://leetcode.com/problems/unique-paths/description/
@@ -79,6 +81,7 @@
 
 [s5]:./longest_palindromic_substring.rb
 [s20]:./valid_parentheses.rb
+[s46]:./permutations.rb
 [s49]:./group_anagrams.rb
 [s58]:./length_of_last_word.rb
 [s62]:./unique_paths.rb
