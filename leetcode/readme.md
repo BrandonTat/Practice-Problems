@@ -15,7 +15,7 @@
 | 110 | [Balanced Binary Tree][q110]            | [Ruby][s110] | Easy       |
 | 121 | [Best Time to Buy and Sell Stock][q121] | [Ruby][s121] | Easy       |
 | 136 | [Single Number][q136]                   | [Ruby][s136] | Easy       |
-| 155 | Min Stack                               | [Ruby][s155] | Easy       |
+| 155 | [Min Stack][q155]                       | [Ruby][s155] | Easy       |
 | 167 | [Two Sum II][q167]                      | [Ruby][s167] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]           | [Ruby][s187] | Medium     |
 | 198 | [House Robber][q198]                    | [Ruby][s198] | Easy       |
@@ -57,6 +57,7 @@
 [q110]:https://leetcode.com/problems/balanced-binary-tree/description/
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q136]:https://leetcode.com/problems/single-number/description/
+[q155]:https://leetcode.com/problems/min-stack/description/
 [q167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
 [q198]:https://leetcode.com/problems/house-robber/description/
