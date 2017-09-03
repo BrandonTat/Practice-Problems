@@ -38,7 +38,7 @@
 | 434 | [Number of Segments in String][q434]    | [Ruby][s434] | Easy       |
 | 437 | [Path Sum III][q437]                    | [Ruby][s437] | Medium     |
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
-| 540 | Single Element in a Sorted Array        | [Ruby][s540] | Easy       |
+| 540 | [Single Element in a Sorted Array][q540]| [Ruby][s540] | Easy       |
 | 566 | [Reshape the Matrix][q566]              | [Ruby][s566] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]| [Ruby][s628] | Easy       |
 | 647 | [Palindromic Substrings][q647]          | [Ruby][s647] | Medium     |
@@ -80,6 +80,7 @@
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [q437]:https://leetcode.com/problems/path-sum-iii/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
+[q540]:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
