@@ -2,7 +2,7 @@
 
 | #   | Problem                                 | Solution     | Difficulty |
 | --- | --------------------------------------- | ------------ | ---------- |
-| 5   | Longest Palindromic Substring           | [Ruby][s5]   | Medium     |
+| 5   | [Longest Palindromic Substring][q5]     | [Ruby][s5]   | Medium     |
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
 | 46  | [Permutations][q46]                     | [Ruby][s46]  | Medium     |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
@@ -44,6 +44,7 @@
 | 647 | [Palindromic Substrings][q647]          | [Ruby][s647] | Medium     |
 | 657 | [Judge Route Circle][q657]              | [Ruby][s657] | Easy       |
 
+[q5]:https://leetcode.com/problems/longest-palindromic-substring/description/
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
 [q46]:https://leetcode.com/problems/permutations/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
