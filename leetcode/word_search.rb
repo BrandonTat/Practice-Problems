@@ -35,7 +35,7 @@ def exist(board, word)
 end
 
 def dfs_search(board, row_idx, col_idx, word)
-  return true if word.length == 0
+  return true if word.empty?
 
   row_length = board.length
   col_length = board.first.length
