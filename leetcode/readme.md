@@ -20,6 +20,7 @@
 | 187 | [Repeated DNA Sequence][q187]           | [Ruby][s187] | Medium     |
 | 198 | [House Robber][q198]                    | [Ruby][s198] | Easy       |
 | 200 | [Number of Islands][q200]               | [Ruby][s200] | Medium     |
+| 202 | [Happy Number][q202]                    | [Ruby][s202] | Easy       |
 | 203 | [Remove Linked List Elements][q203]     | [Ruby][s203] | Easy       |
 | 205 | [Isomorphic Strings][q205]              | [Ruby][s205] | Medium     |
 | 207 | [Course Schedule][q207]                 | [Ruby][s207] | Medium     |
@@ -62,6 +63,7 @@
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
 [q198]:https://leetcode.com/problems/house-robber/description/
 [q200]:https://leetcode.com/problems/number-of-islands/description/
+[q202]:https://leetcode.com/problems/happy-number/description/
 [q203]:https://leetcode.com/problems/remove-linked-list-elements/discuss/
 [q205]:https://leetcode.com/problems/isomorphic-strings/description/
 [q207]:https://leetcode.com/problems/course-schedule/description/
@@ -104,6 +106,7 @@
 [s187]:./repeated_dna_sequence.rb
 [s198]:./house_robber.rb
 [s200]:./number_of_islands.rb
+[s202]:./happy_number.rb
 [s203]:./remove_linked_list_elements.rb
 [s205]:./isomorphic_strings.rb
 [s207]:./course_schedule.rb
