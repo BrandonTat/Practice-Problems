@@ -28,6 +28,7 @@
 | 217 | [Contains Duplicate][q217]              | [Ruby][s217] | Easy       |
 | 221 | [Maximal Square][q221]                  | [Ruby][s221] | Medium     |
 | 231 | [Power of Two][q231]                    | [Ruby][s231] | Easy       |
+| 260 | [Single Number III][q260]               | [Ruby][s260] | Medium     |
 | 283 | [Move Zeroes][q283]                     | [Ruby][s283] | Medium     |
 | 300 | [Longest Increasing Subsequence][q300]  | [Ruby][s300] | Medium     |
 | 307 | [Range Sum Query][q307]                 | [Ruby][s307] | Medium     |
@@ -73,6 +74,7 @@
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
 [q231]:https://leetcode.com/problems/power-of-two/description/
+[q260]:https://leetcode.com/problems/single-number-iii/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
 [q300]:https://leetcode.com/problems/longest-increasing-subsequence/description/
 [q307]:https://leetcode.com/problems/range-sum-query-mutable/description/
@@ -118,6 +120,7 @@
 [s217]:./contain_duplicate.rb
 [s221]:./maximal_square.rb
 [s231]:./power_of_two.rb
+[s260]:./single_number_3.rb
 [s283]:./move_zeroes.rb
 [s300]:./longest_increasing_subsequence.rb
 [s307]:./range_sum_query.rb
