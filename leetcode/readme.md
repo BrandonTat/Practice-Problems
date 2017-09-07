@@ -29,6 +29,7 @@
 | 217 | [Contains Duplicate][q217]              | [Ruby][s217] | Easy       |
 | 221 | [Maximal Square][q221]                  | [Ruby][s221] | Medium     |
 | 231 | [Power of Two][q231]                    | [Ruby][s231] | Easy       |
+| 242 | [Valid Anagram][q242]                   | [Ruby][s242] | Easy       |
 | 260 | [Single Number III][q260]               | [Ruby][s260] | Medium     |
 | 268 | [Missing Number][q268]                  | [Ruby][s268] | Easy       |
 | 283 | [Move Zeroes][q283]                     | [Ruby][s283] | Medium     |
@@ -78,6 +79,7 @@
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
 [q231]:https://leetcode.com/problems/power-of-two/description/
+[q242]:https://leetcode.com/problems/valid-anagram/description/
 [q260]:https://leetcode.com/problems/single-number-iii/description/
 [q268]:https://leetcode.com/problems/missing-number/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
@@ -127,6 +129,7 @@
 [s217]:./contain_duplicate.rb
 [s221]:./maximal_square.rb
 [s231]:./power_of_two.rb
+[s242]:./valid_anagram.rb
 [s260]:./single_number_3.rb
 [s268]:./missing_number.rb
 [s283]:./move_zeroes.rb
