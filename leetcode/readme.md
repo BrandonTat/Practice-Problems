@@ -37,6 +37,7 @@
 | 347 | [Top K Frequent Elements][q347]         | [Ruby][s347] | Medium     |
 | 367 | [Valid Perfect Square][q367]            | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373] | [Ruby][s373] | Medium     |
+| 383 | [Ransom Note][q383]                     | [Ruby][s383] | Easy       |
 | 389 | [Find the Difference][q389]             | [Ruby][s389] | Easy       |
 | 414 | [Third Maximum Number][q414]            | [Ruby][s414] | Easy       |
 | 419 | [Battleships in a Board][q419]          | [Ruby][s419] | Medium     |
@@ -85,6 +86,7 @@
 [q347]:https://leetcode.com/problems/top-k-frequent-elements/description/
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
+[q383]:https://leetcode.com/problems/ransom-note/description/
 [q389]:https://leetcode.com/problems/find-the-difference/description/
 [q414]:https://leetcode.com/problems/third-maximum-number/description/
 [q419]:https://leetcode.com/problems/battleships-in-a-board/description/
@@ -133,6 +135,7 @@
 [s347]:./k_frequent_elements.rb
 [s367]:./valid_perfect_square.rb
 [s373]:./k_pairs_smallest_sums.rb
+[s383]:./ransom_note.rb
 [s389]:./find_the_difference.rb
 [s414]:./third_maximum_number.rb
 [s419]:./battleships_in_a_board.rb

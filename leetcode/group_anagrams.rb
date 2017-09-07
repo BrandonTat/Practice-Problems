@@ -25,3 +25,6 @@ def group_anagrams(strs)
 
   anagrams.values
 end
+
+# Time Complexity - O(n), n = number of strs
+# Space Complexity - O(n), n = number of strs
