@@ -45,6 +45,7 @@
 | 434 | [Number of Segments in String][q434]    | [Ruby][s434] | Easy       |
 | 437 | [Path Sum III][q437]                    | [Ruby][s437] | Medium     |
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
+| 476 | [Number Complement][q476]               | [Ruby][s476] | Easy       |
 | 540 | [Single Element in a Sorted Array][q540]| [Ruby][s540] | Easy       |
 | 566 | [Reshape the Matrix][q566]              | [Ruby][s566] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]| [Ruby][s628] | Easy       |
@@ -95,6 +96,7 @@
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [q437]:https://leetcode.com/problems/path-sum-iii/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
+[q476]:https://leetcode.com/problems/number-complement/description/
 [q540]:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
@@ -145,6 +147,7 @@
 [s434]:./number_segments_in_string.rb
 [s437]:./path_sum_3.rb
 [s461]:./hamming_distance.rb
+[s476]:./number_complement.rb
 [s540]:./single_element_sorted_array.rb
 [s566]:./reshape_the_matrix.rb
 [s628]:./max_product_of_three_numbers.rb
