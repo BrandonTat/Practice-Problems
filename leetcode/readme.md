@@ -33,6 +33,7 @@
 | 260 | [Single Number III][q260]               | [Ruby][s260] | Medium     |
 | 268 | [Missing Number][q268]                  | [Ruby][s268] | Easy       |
 | 283 | [Move Zeroes][q283]                     | [Ruby][s283] | Medium     |
+| 290 | [Word Pattern][q290]                    | [Ruby][s290] | Easy       |
 | 300 | [Longest Increasing Subsequence][q300]  | [Ruby][s300] | Medium     |
 | 307 | [Range Sum Query][q307]                 | [Ruby][s307] | Medium     |
 | 347 | [Top K Frequent Elements][q347]         | [Ruby][s347] | Medium     |
@@ -84,6 +85,7 @@
 [q260]:https://leetcode.com/problems/single-number-iii/description/
 [q268]:https://leetcode.com/problems/missing-number/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
+[q290]:https://leetcode.com/problems/word-pattern/description/
 [q300]:https://leetcode.com/problems/longest-increasing-subsequence/description/
 [q307]:https://leetcode.com/problems/range-sum-query-mutable/description/
 [q347]:https://leetcode.com/problems/top-k-frequent-elements/description/
@@ -135,6 +137,7 @@
 [s260]:./single_number_3.rb
 [s268]:./missing_number.rb
 [s283]:./move_zeroes.rb
+[s290]:./word_pattern.rb
 [s300]:./longest_increasing_subsequence.rb
 [s307]:./range_sum_query.rb
 [s347]:./k_frequent_elements.rb
