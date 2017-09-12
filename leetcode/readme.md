@@ -4,6 +4,7 @@
 | --- | --------------------------------------- | ------------ | ---------- |
 | 5   | [Longest Palindromic Substring][q5]     | [Ruby][s5]   | Medium     |
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
+| 39  | [Combination Sum][q39]                  | [Ruby][s39]  | Medium     |
 | 46  | [Permutations][q46]                     | [Ruby][s46]  | Medium     |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
 | 58  | [Length of Last Word][q58]              | [Ruby][s58]  | Easy       |
@@ -58,6 +59,7 @@
 
 [q5]:https://leetcode.com/problems/longest-palindromic-substring/description/
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
+[q39]:https://leetcode.com/problems/combination-sum/description/
 [q46]:https://leetcode.com/problems/permutations/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
 [q58]:https://leetcode.com/problems/length-of-last-word/description/
@@ -112,6 +114,7 @@
 
 [s5]:./longest_palindromic_substring.rb
 [s20]:./valid_parentheses.rb
+[s39]:./combination_sum.rb
 [s46]:./permutations.rb
 [s49]:./group_anagrams.rb
 [s58]:./length_of_last_word.rb
