@@ -49,6 +49,7 @@
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
 | 476 | [Number Complement][q476]               | [Ruby][s476] | Easy       |
 | 540 | [Single Element in a Sorted Array][q540]| [Ruby][s540] | Easy       |
+| 547 | [Friend Circles][q547]                  | [Ruby][s547] | Medium     |
 | 566 | [Reshape the Matrix][q566]              | [Ruby][s566] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]| [Ruby][s628] | Easy       |
 | 647 | [Palindromic Substrings][q647]          | [Ruby][s647] | Medium     |
@@ -102,6 +103,7 @@
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q476]:https://leetcode.com/problems/number-complement/description/
 [q540]:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+[q547]:https://leetcode.com/problems/friend-circles/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
@@ -155,6 +157,7 @@
 [s461]:./hamming_distance.rb
 [s476]:./number_complement.rb
 [s540]:./single_element_sorted_array.rb
+[S547]:./friend_circles.rb
 [s566]:./reshape_the_matrix.rb
 [s628]:./max_product_of_three_numbers.rb
 [s647]:./palindromic_substrings.rb
