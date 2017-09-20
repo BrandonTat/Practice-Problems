@@ -54,6 +54,7 @@
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
 | 476 | [Number Complement][q476]               | [Ruby][s476] | Easy       |
 | 501 | [Find Mode in BST][q501]                | [Ruby][s501] | Easy       |
+| 530 | [Min Absolute Difference in BST][q530]  | [Ruby][s530] | Easy       |
 | 540 | [Single Element in a Sorted Array][q540]| [Ruby][s540] | Easy       |
 | 547 | [Friend Circles][q547]                  | [Ruby][s547] | Medium     |
 | 566 | [Reshape the Matrix][q566]              | [Ruby][s566] | Easy       |
@@ -114,6 +115,7 @@
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q476]:https://leetcode.com/problems/number-complement/description/
 [q501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
+[q530]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
 [q540]:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 [q547]:https://leetcode.com/problems/friend-circles/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
@@ -174,6 +176,7 @@
 [s461]:./hamming_distance.rb
 [s476]:./number_complement.rb
 [s501]:./find_mode_bst.rb
+[s530]:./min_abs_diff_bst.rb
 [s540]:./single_element_sorted_array.rb
 [S547]:./friend_circles.rb
 [s566]:./reshape_the_matrix.rb
