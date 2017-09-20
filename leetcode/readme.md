@@ -44,6 +44,7 @@
 | 383 | [Ransom Note][q383]                     | [Ruby][s383] | Easy       |
 | 389 | [Find the Difference][q389]             | [Ruby][s389] | Easy       |
 | 392 | [Is Subsequence][q392]                  | [Ruby][s392] | Medium     |
+| 404 | [Sum of Left Leaves][q404]              | [Ruby][s404] | Easy       |
 | 414 | [Third Maximum Number][q414]            | [Ruby][s414] | Easy       |
 | 419 | [Battleships in a Board][q419]          | [Ruby][s419] | Medium     |
 | 434 | [Number of Segments in String][q434]    | [Ruby][s434] | Easy       |
@@ -101,6 +102,7 @@
 [q383]:https://leetcode.com/problems/ransom-note/description/
 [q389]:https://leetcode.com/problems/find-the-difference/description/
 [q392]:https://leetcode.com/problems/is-subsequence/description/
+[q404]:https://leetcode.com/problems/sum-of-left-leaves/description/
 [q414]:https://leetcode.com/problems/third-maximum-number/description/
 [q419]:https://leetcode.com/problems/battleships-in-a-board/description/
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
@@ -158,6 +160,7 @@
 [s383]:./ransom_note.rb
 [s389]:./find_the_difference.rb
 [s392]:./is_subsequence.rb
+[s404]:./sum_of_left_leaves.rb
 [s414]:./third_maximum_number.rb
 [s419]:./battleships_in_a_board.rb
 [s434]:./number_segments_in_string.rb
