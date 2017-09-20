@@ -62,6 +62,7 @@
 | 647 | [Palindromic Substrings][q647]          | [Ruby][s647] | Medium     |
 | 653 | [Two Sum IV - Input is a BST][q653]     | [Ruby][s653] | Easy       |
 | 657 | [Judge Route Circle][q657]              | [Ruby][s657] | Easy       |
+| 671 | [Second Min Node in a Binary Tree][q671]| [Ruby][s671] | Easy       |
 
 [q5]:https://leetcode.com/problems/longest-palindromic-substring/description/
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
@@ -123,6 +124,7 @@
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
 [q653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [q657]:https://leetcode.com/problems/judge-route-circle/description/
+[q671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
 
 [s5]:./longest_palindromic_substring.rb
 [s20]:./valid_parentheses.rb
@@ -184,3 +186,4 @@
 [s647]:./palindromic_substrings.rb
 [s653]:./two_sum_4_BST.rb
 [s657]:./judge_route_circle.rb
+[s671]:./second_min_node_binary_tree.rb
