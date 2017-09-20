@@ -15,6 +15,7 @@
 | 79  | [Word Search][q79]                      | [Ruby][s79]  | Medium     |
 | 83  | [Remove Duplicates Sorted List][q83]    | [Ruby][s83]  | Easy       |
 | 98  | [Validate BST][q98]                     | [Ruby][s98]  | Medium     |
+| 100 | [Same Tree][q100]                       | [Ruby][s100] | Easy       |
 | 104 | [Maximum depth of Binary Tree][q104]    | [Ruby][s104] | Easy       |
 | 110 | [Balanced Binary Tree][q110]            | [Ruby][s110] | Easy       |
 | 121 | [Best Time to Buy and Sell Stock][q121] | [Ruby][s121] | Easy       |
@@ -73,6 +74,7 @@
 [q79]:https://leetcode.com/problems/word-search/description/
 [q83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
+[q100]:https://leetcode.com/problems/same-tree/description/
 [q104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [q110]:https://leetcode.com/problems/balanced-binary-tree/description/
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
@@ -131,6 +133,7 @@
 [s79]:./word_search.rb
 [s83]:./remove_duplicates_sorted_list.rb
 [s98]:./validate_bst.rb
+[s100]:./same_tree.rb
 [s104]:./max_depth_binary_tree.rb
 [s110]:./balanced_binary_tree.rb
 [s121]:./buy_and_sell_stock.r
