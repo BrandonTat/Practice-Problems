@@ -9,4 +9,4 @@
 
 
 
-[sfirstDuplicate]: first_duplicate.rb
+[sfirstDuplicate]: ./problems/first_duplicate.rb
