@@ -5,5 +5,5 @@
 | [Interview Practice][interview] |
 | [Arcade][arcade]                |
 
-[arcade]: ./arcade
-[interview]: ./interview_practice
+[arcade]: ./arcade.README.md
+[interview]: ./interview_practice.README.md
