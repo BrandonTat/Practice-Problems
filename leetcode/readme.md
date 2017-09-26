@@ -11,6 +11,7 @@
 | 40  | [Combination Sum II][q40]               | [Ruby][s40]  | Medium     |
 | 46  | [Permutations][q46]                     | [Ruby][s46]  | Medium     |
 | 49  | [Group Anagrams][q49]                   | [Ruby][s49]  | Medium     |
+| 56  | [Merge Intervals][q56]                  | [Ruby][s56]  | Medium     |
 | 58  | [Length of Last Word][q58]              | [Ruby][s58]  | Easy       |
 | 62  | [Unique Paths][q62]                     | [Ruby][s62]  | Medium     |
 | 63  | [Unique Paths II][q63]                  | [Ruby][s63]  | Medium     |
@@ -76,6 +77,7 @@
 [q40]:https://leetcode.com/problems/combination-sum-ii/description/
 [q46]:https://leetcode.com/problems/permutations/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
+[q56]:https://leetcode.com/problems/merge-intervals/description/
 [q58]:https://leetcode.com/problems/length-of-last-word/description/
 [q62]:https://leetcode.com/problems/unique-paths/description/
 [q63]:https://leetcode.com/problems/unique-paths-ii/description/
@@ -141,6 +143,7 @@
 [s40]:./problems/combination_sum2.rb
 [s46]:./problems/permutations.rb
 [s49]:./problems/group_anagrams.rb
+[s56]:./problems/merge_intervals.rb
 [s58]:./problems/length_of_last_word.rb
 [s62]:./problems/unique_paths.rb
 [s63]:./problems/unique_paths_2.rb
