@@ -3,6 +3,7 @@
 | #   | Problem                                 | Solution     | Difficulty |
 | --- | --------------------------------------- | ------------ | ---------- |
 | 5   | [Longest Palindromic Substring][q5]     | [Ruby][s5]   | Medium     |
+| 17  | [Letter Combinations Phone Number][q17] | [Ruby][s17]  | Medium     |
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
 | 39  | [Combination Sum][q39]                  | [Ruby][s39]  | Medium     |
 | 40  | [Combination Sum II][q40]               | [Ruby][s40]  | Medium     |
@@ -65,6 +66,7 @@
 | 671 | [Second Min Node in a Binary Tree][q671]| [Ruby][s671] | Easy       |
 
 [q5]:https://leetcode.com/problems/longest-palindromic-substring/description/
+[q17]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
 [q39]:https://leetcode.com/problems/combination-sum/description/
 [q40]:https://leetcode.com/problems/combination-sum-ii/description/
@@ -127,6 +129,7 @@
 [q671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
 
 [s5]:./problems/longest_palindromic_substring.rb
+[s17]:./problems/letter_combinations_phone_number.rb
 [s20]:./problems/valid_parentheses.rb
 [s39]:./problems/combination_sum.rb
 [s40]:./problems/combination_sum2.rb
