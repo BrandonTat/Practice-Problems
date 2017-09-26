@@ -56,6 +56,7 @@
 | 434 | [Number of Segments in String][q434]    | [Ruby][s434] | Easy       |
 | 437 | [Path Sum III][q437]                    | [Ruby][s437] | Medium     |
 | 441 | [Arranging Coins][q441]                 | [Ruby][s441] | Easy       |
+| 451 | [Sort Characters by Frequency][q451]    | [Ruby][s451] | Medium     |
 | 461 | [Hamming Distance][q461]                | [Ruby][s461] | Easy       |
 | 476 | [Number Complement][q476]               | [Ruby][s476] | Easy       |
 | 501 | [Find Mode in BST][q501]                | [Ruby][s501] | Easy       |
@@ -123,6 +124,7 @@
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [q437]:https://leetcode.com/problems/path-sum-iii/description/
 [q441]:https://leetcode.com/problems/arranging-coins/description/
+[q451]:https://leetcode.com/problems/sort-characters-by-frequency/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q476]:https://leetcode.com/problems/number-complement/description/
 [q501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
@@ -190,6 +192,7 @@
 [s434]:./problems/number_segments_in_string.rb
 [s437]:./problems/path_sum_3.rb
 [s441]:./problems/arranging_coins.rb
+[s451]:./problems/sort_characters_by_frequency.rb
 [s461]:./problems/hamming_distance.rb
 [s476]:./problems/number_complement.rb
 [s501]:./problems/find_mode_bst.rb
