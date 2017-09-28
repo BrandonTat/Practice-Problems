@@ -5,6 +5,7 @@
 | 1   | [Two Sum][q1]                           | [Ruby][s1]   | Easy       |
 | 2   | [Add Two Numbers][q2]                   | [Ruby][s2]   | Medium     |
 | 5   | [Longest Palindromic Substring][q5]     | [Ruby][s5]   | Medium     |
+| 12  | [Integer to Roman][q12]                 | [Ruby][s12]  | Medium     |
 | 17  | [Letter Combinations Phone Number][q17] | [Ruby][s17]  | Medium     |
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
 | 21  | [Merge Tow Sorted Lists][q21]           | [Ruby][s21]  | Easy       |
@@ -77,6 +78,7 @@
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
 [q5]:https://leetcode.com/problems/longest-palindromic-substring/description/
+[q12]:https://leetcode.com/problems/integer-to-roman/description/
 [q17]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
 [q21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
@@ -149,6 +151,7 @@
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
 [s5]:./problems/longest_palindromic_substring.rb
+[s12]:./problems/integer_to_roman.rb
 [s17]:./problems/letter_combinations_phone_number.rb
 [s20]:./problems/valid_parentheses.rb
 [s21]:./problems/merge_two_sorted_lists.rb
