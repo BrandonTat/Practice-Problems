@@ -42,6 +42,7 @@
 | 242 | [Valid Anagram][q242]                   | [Ruby][s242] | Easy       |
 | 260 | [Single Number III][q260]               | [Ruby][s260] | Medium     |
 | 268 | [Missing Number][q268]                  | [Ruby][s268] | Easy       |
+| 278 | [First Bad Version][q278]               | [Ruby][s278] | Easy       |
 | 283 | [Move Zeroes][q283]                     | [Ruby][s283] | Medium     |
 | 290 | [Word Pattern][q290]                    | [Ruby][s290] | Easy       |
 | 300 | [Longest Increasing Subsequence][q300]  | [Ruby][s300] | Medium     |
@@ -113,6 +114,7 @@
 [q242]:https://leetcode.com/problems/valid-anagram/description/
 [q260]:https://leetcode.com/problems/single-number-iii/description/
 [q268]:https://leetcode.com/problems/missing-number/description/
+[q278]:https://leetcode.com/problems/first-bad-version/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
 [q290]:https://leetcode.com/problems/word-pattern/description/
 [q300]:https://leetcode.com/problems/longest-increasing-subsequence/description/
@@ -184,6 +186,7 @@
 [s242]:./problems/valid_anagram.rb
 [s260]:./problems/single_number_3.rb
 [s268]:./problems/missing_number.rb
+[s278]:./problems/first_bad_version.rb
 [s283]:./problems/move_zeroes.rb
 [s290]:./problems/word_pattern.rb
 [s300]:./problems/longest_increasing_subsequence.rb
