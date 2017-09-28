@@ -8,6 +8,7 @@
 | 17  | [Letter Combinations Phone Number][q17] | [Ruby][s17]  | Medium     |
 | 20  | [Valid Parentheses][q20]                | [Ruby][s20]  | Easy       |
 | 21  | [Merge Tow Sorted Lists][q21]           | [Ruby][s21]  | Easy       |
+| 26  | [Remove Duplicates Sorted Array][q26]   | [Ruby][s26]  | Easy       |
 | 39  | [Combination Sum][q39]                  | [Ruby][s39]  | Medium     |
 | 40  | [Combination Sum II][q40]               | [Ruby][s40]  | Medium     |
 | 46  | [Permutations][q46]                     | [Ruby][s46]  | Medium     |
@@ -76,6 +77,7 @@
 [q5]:https://leetcode.com/problems/longest-palindromic-substring/description/
 [q17]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
+[q26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [q21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [q39]:https://leetcode.com/problems/combination-sum/description/
 [q40]:https://leetcode.com/problems/combination-sum-ii/description/
@@ -146,6 +148,7 @@
 [s17]:./problems/letter_combinations_phone_number.rb
 [s20]:./problems/valid_parentheses.rb
 [s21]:./problems/merge_two_sorted_lists.rb
+[s26]:./problems/remove_duplicates_from_sorted_array.rb
 [s39]:./problems/combination_sum.rb
 [s40]:./problems/combination_sum2.rb
 [s46]:./problems/permutations.rb
