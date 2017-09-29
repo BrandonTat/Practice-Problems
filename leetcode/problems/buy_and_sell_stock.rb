@@ -22,22 +22,16 @@
 # return {Integer}
 
 def max_profit(prices)
-  return 0 if prices.length < 2
+  min, max = 1.0/0.0, 0
 
-  profit = 0
-  min = prices.first
+  prices.each do |price|
+    cur_profit = price - min
 
-  (1...prices.length).each do |i|
-    if prices[i] < min
-      min = prices[i]
-    else
-      if profit < (prices[i] - min)
-        profit = prices[i] - min
-      end
-    end
+    max = [cur_profit, max].max
+    min = [min, price].min
   end
 
-  profit
+  max
 end
 
 # Time Complexity - O(n)
