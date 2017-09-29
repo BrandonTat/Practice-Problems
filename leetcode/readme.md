@@ -5,6 +5,7 @@
 | 1   | [Two Sum][q1]                                    | [Ruby][s1]   | Easy       |
 | 2   | [Add Two Numbers][q2]                            | [Ruby][s2]   | Medium     |
 | 5   | [Longest Palindromic Substring][q5]              | [Ruby][s5]   | Medium     |
+| 7   | [Reverse Integer][q7]                            | [Ruby][s7]   | Easy       |
 | 12  | [Integer to Roman][q12]                          | [Ruby][s12]  | Medium     |
 | 13  | [Roman to Integer][q13]                          | [Ruby][s13]  | Easy       |
 | 17  | [Letter Combinations Phone Number][q17]          | [Ruby][s17]  | Medium     |
@@ -80,6 +81,7 @@
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
 [q5]:https://leetcode.com/problems/longest-palindromic-substring/description/
+[q7]:https://leetcode.com/problems/reverse-integer/description/
 [q12]:https://leetcode.com/problems/integer-to-roman/description/
 [q13]:https://leetcode.com/problems/roman-to-integer/description/
 [q17]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
@@ -155,6 +157,7 @@
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
 [s5]:./problems/longest_palindromic_substring.rb
+[s7]:./problems/reverse_integer.rb
 [s12]:./problems/integer_to_roman.rb
 [s13]:./problems/roman_to_integer.rb
 [s17]:./problems/letter_combinations_phone_number.rb
