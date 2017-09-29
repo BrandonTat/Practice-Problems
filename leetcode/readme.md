@@ -23,6 +23,7 @@
 | 62  | [Unique Paths][q62]                              | [Ruby][s62]  | Medium     |
 | 63  | [Unique Paths II][q63]                           | [Ruby][s63]  | Medium     |
 | 64  | [Minimum Path Sum][q64]                          | [Ruby][s64]  | Medium     |
+| 66  | [Plus One][q66]                                  | [Ruby][s66]  | Easy       |
 | 75  | [Sort Colors][q75]                               | [Ruby][s75]  | Medium     |
 | 79  | [Word Search][q79]                               | [Ruby][s79]  | Medium     |
 | 83  | [Remove Duplicates Sorted List][q83]             | [Ruby][s83]  | Easy       |
@@ -101,6 +102,7 @@
 [q62]:https://leetcode.com/problems/unique-paths/description/
 [q63]:https://leetcode.com/problems/unique-paths-ii/description/
 [q64]:https://leetcode.com/problems/minimum-path-sum/description/
+[q66]:https://leetcode.com/problems/plus-one/description/
 [q75]:https://leetcode.com/problems/sort-colors/description/
 [q79]:https://leetcode.com/problems/word-search/description/
 [q83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -179,6 +181,7 @@
 [s62]:./problems/unique_paths.rb
 [s63]:./problems/unique_paths_2.rb
 [s64]:./problems/minimum_path_sum.rb
+[s66]:./problems/plus_one.rb
 [s75]:./problems/sort_colors.rb
 [s79]:./problems/word_search.rb
 [s83]:./problems/remove_duplicates_sorted_list.rb
