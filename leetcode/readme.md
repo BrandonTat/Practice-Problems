@@ -42,6 +42,7 @@
 | 202 | [Happy Number][q202]                             | [Ruby][s202] | Easy       |
 | 203 | [Remove Linked List Elements][q203]              | [Ruby][s203] | Easy       |
 | 205 | [Isomorphic Strings][q205]                       | [Ruby][s205] | Medium     |
+| 206 | [Reverse a Linked List][q206]                    | [Ruby][s206] | Easy       |
 | 207 | [Course Schedule][q207]                          | [Ruby][s207] | Medium     |
 | 217 | [Contains Duplicate][q217]                       | [Ruby][s217] | Easy       |
 | 221 | [Maximal Square][q221]                           | [Ruby][s221] | Medium     |
@@ -127,6 +128,7 @@
 [q202]:https://leetcode.com/problems/happy-number/description/
 [q203]:https://leetcode.com/problems/remove-linked-list-elements/discuss/
 [q205]:https://leetcode.com/problems/isomorphic-strings/description/
+[q206]:https://leetcode.com/problems/reverse-linked-list/description/
 [q207]:https://leetcode.com/problems/course-schedule/description/
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
@@ -212,6 +214,7 @@
 [s202]:./problems/happy_number.rb
 [s203]:./problems/remove_linked_list_elements.rb
 [s205]:./problems/isomorphic_strings.rb
+[s206]:./problems/reverse_linked_list.rb
 [s207]:./problems/course_schedule.rb
 [s217]:./problems/contain_duplicate.rb
 [s221]:./problems/maximal_square.rb
