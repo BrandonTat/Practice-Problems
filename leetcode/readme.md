@@ -54,6 +54,7 @@
 | 290 | [Word Pattern][q290]                             | [Ruby][s290] | Easy       |
 | 300 | [Longest Increasing Subsequence][q300]           | [Ruby][s300] | Medium     |
 | 307 | [Range Sum Query][q307]                          | [Ruby][s307] | Medium     |
+| 326 | [Power of Three][q326]                           | [Ruby][s326] | Easy       |
 | 342 | [Power of Four][q342]                            | [Ruby][s342] | Easy       |
 | 347 | [Top K Frequent Elements][q347]                  | [Ruby][s347] | Medium     |
 | 367 | [Valid Perfect Square][q367]                     | [Ruby][s367] | Easy       |
@@ -136,6 +137,7 @@
 [q290]:https://leetcode.com/problems/word-pattern/description/
 [q300]:https://leetcode.com/problems/longest-increasing-subsequence/description/
 [q307]:https://leetcode.com/problems/range-sum-query-mutable/description/
+[q326]:https://leetcode.com/problems/power-of-three/description/
 [q342]:https://leetcode.com/problems/power-of-four/description/
 [q347]:https://leetcode.com/problems/top-k-frequent-elements/description/
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
@@ -218,6 +220,7 @@
 [s290]:./problems/word_pattern.rb
 [s300]:./problems/longest_increasing_subsequence.rb
 [s307]:./problems/range_sum_query.rb
+[s326]:./problems/power_of_three.rb
 [s342]:./problems/power_of_four.rb
 [s347]:./problems/k_frequent_elements.rb
 [s367]:./problems/valid_perfect_square.rb
