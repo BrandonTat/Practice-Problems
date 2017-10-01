@@ -56,6 +56,7 @@
 | 307 | [Range Sum Query][q307]                          | [Ruby][s307] | Medium     |
 | 326 | [Power of Three][q326]                           | [Ruby][s326] | Easy       |
 | 342 | [Power of Four][q342]                            | [Ruby][s342] | Easy       |
+| 345 | [Reverse Vowels of a String][q345]               | [Ruby][s345] | Easy       |
 | 347 | [Top K Frequent Elements][q347]                  | [Ruby][s347] | Medium     |
 | 367 | [Valid Perfect Square][q367]                     | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373]          | [Ruby][s373] | Medium     |
@@ -140,6 +141,7 @@
 [q307]:https://leetcode.com/problems/range-sum-query-mutable/description/
 [q326]:https://leetcode.com/problems/power-of-three/description/
 [q342]:https://leetcode.com/problems/power-of-four/description/
+[q345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 [q347]:https://leetcode.com/problems/top-k-frequent-elements/description/
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
@@ -224,6 +226,7 @@
 [s307]:./problems/range_sum_query.rb
 [s326]:./problems/power_of_three.rb
 [s342]:./problems/power_of_four.rb
+[s345]:./problems/reverse_vowels_of_a_str.rb
 [s347]:./problems/k_frequent_elements.rb
 [s367]:./problems/valid_perfect_square.rb
 [s373]:./problems/k_pairs_smallest_sums.rb
