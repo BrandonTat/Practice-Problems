@@ -81,6 +81,7 @@
 | 657 | [Judge Route Circle][q657]                       | [Ruby][s657] | Easy       |
 | 671 | [Second Min Node in a Binary Tree][q671]         | [Ruby][s671] | Easy       |
 | 674 | [Longest Continuous Increasing Subsequence][q674]| [Ruby][s674] | Easy       |
+| 680 | [Valid Palindrome II][q680]                      | [Ruby][s680] | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -161,6 +162,7 @@
 [q657]:https://leetcode.com/problems/judge-route-circle/description/
 [q671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
 [q674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+[q680]:https://leetcode.com/problems/valid-palindrome-ii/description/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -241,3 +243,4 @@
 [s657]:./problems/judge_route_circle.rb
 [s671]:./problems/second_min_node_binary_tree.rb
 [s674]:./problems/longest_cont_increasing_subsequence.rb
+[s680]:./problems/valid_palindrome_2.rb
