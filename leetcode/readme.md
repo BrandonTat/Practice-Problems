@@ -75,6 +75,7 @@
 | 501 | [Find Mode in BST][q501]                         | [Ruby][s501] | Easy       |
 | 530 | [Min Absolute Difference in BST][q530]           | [Ruby][s530] | Easy       |
 | 540 | [Single Element in a Sorted Array][q540]         | [Ruby][s540] | Easy       |
+| 542 | [01 Matrix][q542]                                | [Ruby][s542] | Medium     |
 | 547 | [Friend Circles][q547]                           | [Ruby][s547] | Medium     |
 | 566 | [Reshape the Matrix][q566]                       | [Ruby][s566] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]         | [Ruby][s628] | Easy       |
@@ -158,6 +159,7 @@
 [q501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
 [q530]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
 [q540]:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+[q542]:https://leetcode.com/problems/01-matrix/description/
 [q547]:https://leetcode.com/problems/friend-circles/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
@@ -241,6 +243,7 @@
 [s501]:./problems/find_mode_bst.rb
 [s530]:./problems/min_abs_diff_bst.rb
 [s540]:./problems/single_element_sorted_array.rb
+[s542]:./problems/01_matrix.rb
 [S547]:./problems/friend_circles.rb
 [s566]:./problems/reshape_the_matrix.rb
 [s628]:./problems/max_product_of_three_numbers.rb
