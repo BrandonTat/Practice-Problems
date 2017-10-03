@@ -18,6 +18,7 @@
 | 40  | [Combination Sum II][q40]                        | [Ruby][s40]  | Medium     |
 | 46  | [Permutations][q46]                              | [Ruby][s46]  | Medium     |
 | 49  | [Group Anagrams][q49]                            | [Ruby][s49]  | Medium     |
+| 54  | [Spiral Matrix I][q54]                           | [Ruby][s54]  | Medium     |
 | 56  | [Merge Intervals][q56]                           | [Ruby][s56]  | Medium     |
 | 58  | [Length of Last Word][q58]                       | [Ruby][s58]  | Easy       |
 | 62  | [Unique Paths][q62]                              | [Ruby][s62]  | Medium     |
@@ -62,6 +63,7 @@
 | 367 | [Valid Perfect Square][q367]                     | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373]          | [Ruby][s373] | Medium     |
 | 383 | [Ransom Note][q383]                              | [Ruby][s383] | Easy       |
+| 387 | [Find Unique Character in String][q387]          | [Ruby][s387] | Easy       |
 | 389 | [Find the Difference][q389]                      | [Ruby][s389] | Easy       |
 | 392 | [Is Subsequence][q392]                           | [Ruby][s392] | Medium     |
 | 404 | [Sum of Left Leaves][q404]                       | [Ruby][s404] | Easy       |
@@ -104,6 +106,7 @@
 [q40]:https://leetcode.com/problems/combination-sum-ii/description/
 [q46]:https://leetcode.com/problems/permutations/description/
 [q49]:https://leetcode.com/problems/group-anagrams/description/
+[q54]:https://leetcode.com/problems/spiral-matrix/description/
 [q56]:https://leetcode.com/problems/merge-intervals/description/
 [q58]:https://leetcode.com/problems/length-of-last-word/description/
 [q62]:https://leetcode.com/problems/unique-paths/description/
@@ -148,6 +151,7 @@
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 [q383]:https://leetcode.com/problems/ransom-note/description/
+[q387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [q389]:https://leetcode.com/problems/find-the-difference/description/
 [q392]:https://leetcode.com/problems/is-subsequence/description/
 [q404]:https://leetcode.com/problems/sum-of-left-leaves/description/
@@ -234,6 +238,7 @@
 [s367]:./problems/valid_perfect_square.rb
 [s373]:./problems/k_pairs_smallest_sums.rb
 [s383]:./problems/ransom_note.rb
+[s387]:./problems/first_unique_character_in_string.rb
 [s389]:./problems/find_the_difference.rb
 [s392]:./problems/is_subsequence.rb
 [s404]:./problems/sum_of_left_leaves.rb
