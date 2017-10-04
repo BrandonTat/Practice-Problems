@@ -18,10 +18,7 @@
 def merge_two_lists(l1, l2)
   return l1 || l2 unless l1 && l2
 
-  l1, l2 = l2, l1 unless l1.val < l2.val
-  l3, l1 = l1, l1.next
-
-  p3 = l3
+  l3 = p3 = ListNode.new(nil)
 
   while l1 && l2
     if l1.val < l2.val
@@ -37,7 +34,7 @@ def merge_two_lists(l1, l2)
 
   p3.next = l1 || l2
 
-  l3
+  l3.next
 end
 
 # Time Complexity - O(n + m)
