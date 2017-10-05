@@ -37,6 +37,7 @@
 | 121 | [Best Time to Buy and Sell Stock][q121]          | [Ruby][s121] | Easy       |
 | 125 | [Valid Palindrome][q125]                         | [Ruby][s125] | Easy       |
 | 136 | [Single Number][q136]                            | [Ruby][s136] | Easy       |
+| 150 | [Evaluate RPN][q150]                             | [Ruby][s150] | Medium     |
 | 155 | [Min Stack][q155]                                | [Ruby][s155] | Easy       |
 | 167 | [Two Sum II][q167]                               | [Ruby][s167] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]                    | [Ruby][s187] | Medium     |
@@ -127,6 +128,7 @@
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q125]:https://leetcode.com/problems/valid-palindrome/description/
 [q136]:https://leetcode.com/problems/single-number/description/
+[q150]:https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 [q155]:https://leetcode.com/problems/min-stack/description/
 [q167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
@@ -216,6 +218,7 @@
 [s121]:./problems/buy_and_sell_stock.rb
 [s125]:./problems/valid_palindrome.rb
 [s136]:./problems/single_number.rb
+[s150]:./problems/evaluate_rpn.rb
 [s155]:./problems/min_stack.rb
 [s167]:./problems/two_sum_two.rb
 [s187]:./problems/repeated_dna_sequence.rb
