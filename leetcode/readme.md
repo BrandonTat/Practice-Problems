@@ -35,6 +35,7 @@
 | 102 | [Binary Tree Level Order Traversal][q102]        | [Ruby][s102] | Medium     |
 | 104 | [Maximum depth of Binary Tree][q104]             | [Ruby][s104] | Easy       |
 | 110 | [Balanced Binary Tree][q110]                     | [Ruby][s110] | Easy       |
+| 120 | [Triangle][q120]                                 | [Ruby][s120] | Medium     |
 | 121 | [Best Time to Buy and Sell Stock][q121]          | [Ruby][s121] | Easy       |
 | 125 | [Valid Palindrome][q125]                         | [Ruby][s125] | Easy       |
 | 136 | [Single Number][q136]                            | [Ruby][s136] | Easy       |
@@ -127,6 +128,7 @@
 [q102]:https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 [q104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [q110]:https://leetcode.com/problems/balanced-binary-tree/description/
+[q120]:https://leetcode.com/problems/triangle/description/
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q125]:https://leetcode.com/problems/valid-palindrome/description/
 [q136]:https://leetcode.com/problems/single-number/description/
@@ -218,6 +220,7 @@
 [s102]:./problems/binary_tree_level_order_traversal.rb
 [s104]:./problems/max_depth_binary_tree.rb
 [s110]:./problems/balanced_binary_tree.rb
+[s120]:./problems/triangle.rb
 [s121]:./problems/buy_and_sell_stock.rb
 [s125]:./problems/valid_palindrome.rb
 [s136]:./problems/single_number.rb
