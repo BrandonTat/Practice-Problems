@@ -25,6 +25,7 @@
 | 63  | [Unique Paths II][q63]                           | [Ruby][s63]  | Medium     |
 | 64  | [Minimum Path Sum][q64]                          | [Ruby][s64]  | Medium     |
 | 66  | [Plus One][q66]                                  | [Ruby][s66]  | Easy       |
+| 69  | [Sqrt of X][q69]                                 | [Ruby][s69]  | Easy       |
 | 75  | [Sort Colors][q75]                               | [Ruby][s75]  | Medium     |
 | 79  | [Word Search][q79]                               | [Ruby][s79]  | Medium     |
 | 83  | [Remove Duplicates Sorted List][q83]             | [Ruby][s83]  | Easy       |
@@ -80,6 +81,7 @@
 | 463 | [Island Permiter][q463]                          | [Ruby][s463] | Easy       |
 | 476 | [Number Complement][q476]                        | [Ruby][s476] | Easy       |
 | 501 | [Find Mode in BST][q501]                         | [Ruby][s501] | Easy       |
+| 520 | [Detect Capital][q520]                           | [Ruby][s520] | Easy       |
 | 530 | [Min Absolute Difference in BST][q530]           | [Ruby][s530] | Easy       |
 | 540 | [Single Element in a Sorted Array][q540]         | [Ruby][s540] | Easy       |
 | 542 | [01 Matrix][q542]                                | [Ruby][s542] | Medium     |
@@ -171,6 +173,7 @@
 [q463]:https://leetcode.com/problems/island-perimeter/description/
 [q476]:https://leetcode.com/problems/number-complement/description/
 [q501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
+[q520]:https://leetcode.com/problems/detect-capital/description/
 [q530]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
 [q540]:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 [q542]:https://leetcode.com/problems/01-matrix/description/
@@ -261,6 +264,7 @@
 [s463]:./problems/island_permiter.rb
 [s476]:./problems/number_complement.rb
 [s501]:./problems/find_mode_bst.rb
+[s520]:./problems/detect_capital.rb
 [s530]:./problems/min_abs_diff_bst.rb
 [s540]:./problems/single_element_sorted_array.rb
 [s542]:./problems/01_matrix.rb
