@@ -37,6 +37,7 @@
 | 104 | [Maximum depth of Binary Tree][q104]             | [Ruby][s104] | Easy       |
 | 110 | [Balanced Binary Tree][q110]                     | [Ruby][s110] | Easy       |
 | 112 | [Path Sum][q112]                                 | [Ruby][s112] | Easy       |
+| 113 | [Path Sum II][q113]                              | [Ruby][s113] | Medium     |
 | 120 | [Triangle][q120]                                 | [Ruby][s120] | Medium     |
 | 121 | [Best Time to Buy and Sell Stock][q121]          | [Ruby][s121] | Easy       |
 | 125 | [Valid Palindrome][q125]                         | [Ruby][s125] | Easy       |
@@ -132,6 +133,7 @@
 [q104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [q110]:https://leetcode.com/problems/balanced-binary-tree/description/
 [q112]:https://leetcode.com/problems/path-sum/description/
+[q113]:https://leetcode.com/problems/path-sum-ii/description/
 [q120]:https://leetcode.com/problems/triangle/description/
 [q121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [q125]:https://leetcode.com/problems/valid-palindrome/description/
@@ -226,6 +228,7 @@
 [s104]:./problems/max_depth_binary_tree.rb
 [s110]:./problems/balanced_binary_tree.rb
 [s112]:./problems/path_sum.rb
+[s113]:./problems/path_sum_2.rb
 [s120]:./problems/triangle.rb
 [s121]:./problems/buy_and_sell_stock.rb
 [s125]:./problems/valid_palindrome.rb
