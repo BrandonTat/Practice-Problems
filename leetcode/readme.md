@@ -57,6 +57,7 @@
 | 221 | [Maximal Square][q221]                           | [Ruby][s221] | Medium     |
 | 231 | [Power of Two][q231]                             | [Ruby][s231] | Easy       |
 | 242 | [Valid Anagram][q242]                            | [Ruby][s242] | Easy       |
+| 257 | [Binary Tree Paths][q257]                        | [Ruby][s257] | Easy       |
 | 260 | [Single Number III][q260]                        | [Ruby][s260] | Medium     |
 | 268 | [Missing Number][q268]                           | [Ruby][s268] | Easy       |
 | 278 | [First Bad Version][q278]                        | [Ruby][s278] | Easy       |
@@ -153,6 +154,7 @@
 [q221]:https://leetcode.com/problems/maximal-square/description/
 [q231]:https://leetcode.com/problems/power-of-two/description/
 [q242]:https://leetcode.com/problems/valid-anagram/description/
+[q257]:https://leetcode.com/problems/binary-tree-paths/description/
 [q260]:https://leetcode.com/problems/single-number-iii/description/
 [q268]:https://leetcode.com/problems/missing-number/description/
 [q278]:https://leetcode.com/problems/first-bad-version/description/
@@ -248,6 +250,7 @@
 [s221]:./problems/maximal_square.rb
 [s231]:./problems/power_of_two.rb
 [s242]:./problems/valid_anagram.rb
+[s257]:./problems/binary_tree_paths.rb
 [s260]:./problems/single_number_3.rb
 [s268]:./problems/missing_number.rb
 [s278]:./problems/first_bad_version.rb
