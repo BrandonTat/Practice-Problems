@@ -33,6 +33,7 @@
 | 92  | [Reverse Linked List II][q92]                    | [Ruby][s92]  | Medium     |
 | 98  | [Validate BST][q98]                              | [Ruby][s98]  | Medium     |
 | 100 | [Same Tree][q100]                                | [Ruby][s100] | Easy       |
+| 101 | [Symmetric Tree][q101]                           | [Ruby][s101] | Easy       |
 | 102 | [Binary Tree Level Order Traversal][q102]        | [Ruby][s102] | Medium     |
 | 104 | [Maximum depth of Binary Tree][q104]             | [Ruby][s104] | Easy       |
 | 110 | [Balanced Binary Tree][q110]                     | [Ruby][s110] | Easy       |
@@ -130,6 +131,7 @@
 [q92]:https://leetcode.com/problems/reverse-linked-list-ii/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [q100]:https://leetcode.com/problems/same-tree/description/
+[q101]:https://leetcode.com/problems/symmetric-tree/description/
 [q102]:https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 [q104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [q110]:https://leetcode.com/problems/balanced-binary-tree/description/
@@ -226,6 +228,7 @@
 [s92]:./problems/reverse_linked_list_2.rb
 [s98]:./problems/validate_bst.rb
 [s100]:./problems/same_tree.rb
+[s101]:./problems/symmetric_tree.rb
 [s102]:./problems/binary_tree_level_order_traversal.rb
 [s104]:./problems/max_depth_binary_tree.rb
 [s110]:./problems/balanced_binary_tree.rb
