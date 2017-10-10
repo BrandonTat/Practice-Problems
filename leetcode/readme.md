@@ -30,6 +30,7 @@
 | 75  | [Sort Colors][q75]                               | [Ruby][s75]  | Medium     |
 | 79  | [Word Search][q79]                               | [Ruby][s79]  | Medium     |
 | 83  | [Remove Duplicates Sorted List][q83]             | [Ruby][s83]  | Easy       |
+| 88  | [Merge Sorted Array][q88]                        | [Ruby][s88]  | Easy       |
 | 92  | [Reverse Linked List II][q92]                    | [Ruby][s92]  | Medium     |
 | 98  | [Validate BST][q98]                              | [Ruby][s98]  | Medium     |
 | 100 | [Same Tree][q100]                                | [Ruby][s100] | Easy       |
@@ -129,6 +130,7 @@
 [q75]:https://leetcode.com/problems/sort-colors/description/
 [q79]:https://leetcode.com/problems/word-search/description/
 [q83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+[q88]:https://leetcode.com/problems/merge-sorted-array/description/
 [q92]:https://leetcode.com/problems/reverse-linked-list-ii/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [q100]:https://leetcode.com/problems/same-tree/description/
@@ -227,6 +229,7 @@
 [s75]:./problems/sort_colors.rb
 [s79]:./problems/word_search.rb
 [s83]:./problems/remove_duplicates_sorted_list.rb
+[s88]:./problems/merge_sorted_array.rb
 [s92]:./problems/reverse_linked_list_2.rb
 [s98]:./problems/validate_bst.rb
 [s100]:./problems/same_tree.rb
