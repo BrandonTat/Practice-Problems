@@ -18,21 +18,15 @@
 # return {Boolean}
 
 def can_construct(ransom_note, magazine)
-  letters = {}
+  available_letters = Hash.new { |h, k| h[k] = 0 }
 
   magazine.each_char do |letter|
-    if letters[letter]
-      letters[letter] += 1
-    else
-      letters[letter] = 1
-    end
+    available_letters[letter] += 1
   end
 
   ransom_note.each_char do |letter|
-    if letters[letter] == 0
-      return false
-    elsif letters[letter]
-      letters[letter] -= 1
+    if available_letters[letter] && available_letters[letter] >= 1
+      available_letters[letter] -= 1
     else
       return false
     end
@@ -42,4 +36,4 @@ def can_construct(ransom_note, magazine)
 end
 
 # Time Complexity - O(m + n), m = magazine and n = ransome_note
-# Space Complexity - O(m), m = magazine
+# Space Complexity - O(m), m = distinct magazine letters
