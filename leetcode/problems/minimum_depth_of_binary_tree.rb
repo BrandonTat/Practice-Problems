@@ -39,3 +39,6 @@ def min_depth(root)
 
   count
 end
+
+# Time Complexity - O(n)
+# Space Complexity - O(n)
