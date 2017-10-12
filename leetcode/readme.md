@@ -40,6 +40,7 @@
 | 104 | [Maximum depth of Binary Tree][q104]             | [Ruby][s104] | Easy       |
 | 107 | [Binary Tree Level Order Traversal II][q107]     | [Ruby][s107] | Easy       |
 | 110 | [Balanced Binary Tree][q110]                     | [Ruby][s110] | Easy       |
+| 111 | [Minimum Depth of Binary Tree][q111]             | [Ruby][s111] | Easy       |
 | 112 | [Path Sum][q112]                                 | [Ruby][s112] | Easy       |
 | 113 | [Path Sum II][q113]                              | [Ruby][s113] | Medium     |
 | 120 | [Triangle][q120]                                 | [Ruby][s120] | Medium     |
@@ -144,6 +145,7 @@
 [q104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [q107]:https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/
 [q110]:https://leetcode.com/problems/balanced-binary-tree/description/
+[q111]:https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 [q112]:https://leetcode.com/problems/path-sum/description/
 [q113]:https://leetcode.com/problems/path-sum-ii/description/
 [q120]:https://leetcode.com/problems/triangle/description/
@@ -247,6 +249,7 @@
 [s104]:./problems/max_depth_binary_tree.rb
 [s107]:./problems/binary_tree_level_order_traversal2.rb
 [s110]:./problems/balanced_binary_tree.rb
+[s111]:./problems/minimum_depth_of_binary_tree.rb
 [s112]:./problems/path_sum.rb
 [s113]:./problems/path_sum_2.rb
 [s120]:./problems/triangle.rb
