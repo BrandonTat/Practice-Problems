@@ -63,6 +63,7 @@
 | 231 | [Power of Two][q231]                             | [Ruby][s231] | Easy       |
 | 242 | [Valid Anagram][q242]                            | [Ruby][s242] | Easy       |
 | 257 | [Binary Tree Paths][q257]                        | [Ruby][s257] | Easy       |
+| 258 | [Add Digit][q258]                                | [Ruby][s258] | Easy       |
 | 260 | [Single Number III][q260]                        | [Ruby][s260] | Medium     |
 | 268 | [Missing Number][q268]                           | [Ruby][s268] | Easy       |
 | 278 | [First Bad Version][q278]                        | [Ruby][s278] | Easy       |
@@ -104,6 +105,7 @@
 | 647 | [Palindromic Substrings][q647]                   | [Ruby][s647] | Medium     |
 | 653 | [Two Sum IV - Input is a BST][q653]              | [Ruby][s653] | Easy       |
 | 657 | [Judge Route Circle][q657]                       | [Ruby][s657] | Easy       |
+| 665 | [Non Decreasing Array][q665]                     | [Ruby][s665] | Easy       |
 | 671 | [Second Min Node in a Binary Tree][q671]         | [Ruby][s671] | Easy       |
 | 674 | [Longest Continuous Increasing Subsequence][q674]| [Ruby][s674] | Easy       |
 | 680 | [Valid Palindrome II][q680]                      | [Ruby][s680] | Easy       |
@@ -168,6 +170,7 @@
 [q231]:https://leetcode.com/problems/power-of-two/description/
 [q242]:https://leetcode.com/problems/valid-anagram/description/
 [q257]:https://leetcode.com/problems/binary-tree-paths/description/
+[q258]:https://leetcode.com/problems/add-digits/description/
 [q260]:https://leetcode.com/problems/single-number-iii/description/
 [q268]:https://leetcode.com/problems/missing-number/description/
 [q278]:https://leetcode.com/problems/first-bad-version/description/
@@ -209,6 +212,7 @@
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
 [q653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [q657]:https://leetcode.com/problems/judge-route-circle/description/
+[q665]:https://leetcode.com/problems/non-decreasing-array/description/
 [q671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
 [q674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [q680]:https://leetcode.com/problems/valid-palindrome-ii/description/
@@ -272,6 +276,7 @@
 [s231]:./problems/power_of_two.rb
 [s242]:./problems/valid_anagram.rb
 [s257]:./problems/binary_tree_paths.rb
+[s258]:./problems/add_digits.rb
 [s260]:./problems/single_number_3.rb
 [s268]:./problems/missing_number.rb
 [s278]:./problems/first_bad_version.rb
@@ -313,6 +318,7 @@
 [s647]:./problems/palindromic_substrings.rb
 [s653]:./problems/two_sum_4_BST.rb
 [s657]:./problems/judge_route_circle.rb
+[s665]:./problems/non_decreasing_array.rb
 [s671]:./problems/second_min_node_binary_tree.rb
 [s674]:./problems/longest_cont_increasing_subsequence.rb
 [s680]:./problems/valid_palindrome_2.rb
