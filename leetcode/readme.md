@@ -133,6 +133,7 @@
 [q63]:https://leetcode.com/problems/unique-paths-ii/description/
 [q64]:https://leetcode.com/problems/minimum-path-sum/description/
 [q66]:https://leetcode.com/problems/plus-one/description/
+[q69]:https://leetcode.com/problems/sqrtx/description/
 [q70]:https://leetcode.com/problems/climbing-stairs/description/
 [q72]:https://leetcode.com/problems/edit-distance/description/
 [q75]:https://leetcode.com/problems/sort-colors/description/
@@ -239,6 +240,7 @@
 [s63]:./problems/unique_paths_2.rb
 [s64]:./problems/minimum_path_sum.rb
 [s66]:./problems/plus_one.rb
+[s69]:./problems/sqrt_x.rb
 [s70]:./problems/climbing_stairs.rb
 [s72]:./problems/edit_distance.rb
 [s75]:./problems/sort_colors.rb
