@@ -86,6 +86,7 @@
 | 437 | [Path Sum III][q437]                             | [Ruby][s437] | Medium     |
 | 441 | [Arranging Coins][q441]                          | [Ruby][s441] | Easy       |
 | 451 | [Sort Characters by Frequency][q451]             | [Ruby][s451] | Medium     |
+| 453 | [Min Moves to Equal Array Elements][q453]        | [Ruby][s453] | Easy       |
 | 461 | [Hamming Distance][q461]                         | [Ruby][s461] | Easy       |
 | 463 | [Island Permiter][q463]                          | [Ruby][s463] | Easy       |
 | 476 | [Number Complement][q476]                        | [Ruby][s476] | Easy       |
@@ -188,6 +189,7 @@
 [q437]:https://leetcode.com/problems/path-sum-iii/description/
 [q441]:https://leetcode.com/problems/arranging-coins/description/
 [q451]:https://leetcode.com/problems/sort-characters-by-frequency/description/
+[q453]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q463]:https://leetcode.com/problems/island-perimeter/description/
 [q476]:https://leetcode.com/problems/number-complement/description/
@@ -289,6 +291,7 @@
 [s437]:./problems/path_sum_3.rb
 [s441]:./problems/arranging_coins.rb
 [s451]:./problems/sort_characters_by_frequency.rb
+[s453]:./problems/min_moves_to_equal_array_elements.rb
 [s461]:./problems/hamming_distance.rb
 [s463]:./problems/island_permiter.rb
 [s476]:./problems/number_complement.rb
