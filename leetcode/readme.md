@@ -234,6 +234,7 @@
 [s40]:./problems/combination_sum2.rb
 [s46]:./problems/permutations.rb
 [s49]:./problems/group_anagrams.rb
+[s54]:./problems/spiral_matrix_I.rb
 [s56]:./problems/merge_intervals.rb
 [s58]:./problems/length_of_last_word.rb
 [s62]:./problems/unique_paths.rb
