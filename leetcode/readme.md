@@ -50,6 +50,7 @@
 | 150 | [Evaluate RPN][q150]                             | [Ruby][s150] | Medium     |
 | 155 | [Min Stack][q155]                                | [Ruby][s155] | Easy       |
 | 167 | [Two Sum II][q167]                               | [Ruby][s167] | Easy       |
+| 169 | [Majority Element][q169]                         | [Ruby][s169] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]                    | [Ruby][s187] | Medium     |
 | 198 | [House Robber][q198]                             | [Ruby][s198] | Easy       |
 | 200 | [Number of Islands][q200]                        | [Ruby][s200] | Medium     |
@@ -158,6 +159,7 @@
 [q150]:https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 [q155]:https://leetcode.com/problems/min-stack/description/
 [q167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+[q169]:https://leetcode.com/problems/majority-element/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
 [q198]:https://leetcode.com/problems/house-robber/description/
 [q200]:https://leetcode.com/problems/number-of-islands/description/
@@ -266,6 +268,7 @@
 [s150]:./problems/evaluate_rpn.rb
 [s155]:./problems/min_stack.rb
 [s167]:./problems/two_sum_two.rb
+[s169]:./problems/majority_element.rb
 [s187]:./problems/repeated_dna_sequence.rb
 [s198]:./problems/house_robber.rb
 [s200]:./problems/number_of_islands.rb
