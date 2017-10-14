@@ -83,6 +83,7 @@
 | 387 | [Find Unique Character in String][q387]          | [Ruby][s387] | Easy       |
 | 389 | [Find the Difference][q389]                      | [Ruby][s389] | Easy       |
 | 392 | [Is Subsequence][q392]                           | [Ruby][s392] | Medium     |
+| 402 | [Remove K Digits][q402]                          | [Ruby][s402] | Medium     |
 | 404 | [Sum of Left Leaves][q404]                       | [Ruby][s404] | Easy       |
 | 414 | [Third Maximum Number][q414]                     | [Ruby][s414] | Easy       |
 | 419 | [Battleships in a Board][q419]                   | [Ruby][s419] | Medium     |
@@ -192,6 +193,7 @@
 [q387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [q389]:https://leetcode.com/problems/find-the-difference/description/
 [q392]:https://leetcode.com/problems/is-subsequence/description/
+[q402]:https://leetcode.com/problems/remove-k-digits/description/
 [q404]:https://leetcode.com/problems/sum-of-left-leaves/description/
 [q414]:https://leetcode.com/problems/third-maximum-number/description/
 [q419]:https://leetcode.com/problems/battleships-in-a-board/description/
@@ -301,6 +303,7 @@
 [s387]:./problems/first_unique_character_in_string.rb
 [s389]:./problems/find_the_difference.rb
 [s392]:./problems/is_subsequence.rb
+[S402]:./problems/remove_k_digits.rb
 [s404]:./problems/sum_of_left_leaves.rb
 [s414]:./problems/third_maximum_number.rb
 [s419]:./problems/battleships_in_a_board.rb
