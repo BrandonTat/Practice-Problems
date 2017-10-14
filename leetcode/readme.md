@@ -79,6 +79,7 @@
 | 349 | [Intersection of Two Arrays][q349]               | [Ruby][s349] | Easy       |
 | 367 | [Valid Perfect Square][q367]                     | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373]          | [Ruby][s373] | Medium     |
+| 377 | [Combination Sum IV][q377]                       | [Ruby][s377] | Medium     |
 | 383 | [Ransom Note][q383]                              | [Ruby][s383] | Easy       |
 | 387 | [Find Unique Character in String][q387]          | [Ruby][s387] | Easy       |
 | 389 | [Find the Difference][q389]                      | [Ruby][s389] | Easy       |
@@ -189,6 +190,7 @@
 [q349]:https://leetcode.com/problems/intersection-of-two-arrays/description/
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
+[q377]:https://leetcode.com/problems/combination-sum-iv/description/
 [q383]:https://leetcode.com/problems/ransom-note/description/
 [q387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [q389]:https://leetcode.com/problems/find-the-difference/description/
@@ -299,6 +301,7 @@
 [s349]:./problems/intersection_of_two_arrays.rb
 [s367]:./problems/valid_perfect_square.rb
 [s373]:./problems/k_pairs_smallest_sums.rb
+[s377]:./problems/combination_sum_4.rb
 [s383]:./problems/ransom_note.rb
 [s387]:./problems/first_unique_character_in_string.rb
 [s389]:./problems/find_the_difference.rb
