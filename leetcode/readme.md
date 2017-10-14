@@ -104,6 +104,7 @@
 | 542 | [01 Matrix][q542]                                | [Ruby][s542] | Medium     |
 | 547 | [Friend Circles][q547]                           | [Ruby][s547] | Medium     |
 | 566 | [Reshape the Matrix][q566]                       | [Ruby][s566] | Easy       |
+| 605 | [Can Place Flowers][q605]                        | [Ruby][s605] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]         | [Ruby][s628] | Easy       |
 | 647 | [Palindromic Substrings][q647]                   | [Ruby][s647] | Medium     |
 | 653 | [Two Sum IV - Input is a BST][q653]              | [Ruby][s653] | Easy       |
@@ -215,6 +216,7 @@
 [q542]:https://leetcode.com/problems/01-matrix/description/
 [q547]:https://leetcode.com/problems/friend-circles/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
+[q605]:https://leetcode.com/problems/can-place-flowers/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
 [q653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
@@ -326,6 +328,7 @@
 [s542]:./problems/01_matrix.rb
 [S547]:./problems/friend_circles.rb
 [s566]:./problems/reshape_the_matrix.rb
+[s605]:./problems/can_place_flowers.rb
 [s628]:./problems/max_product_of_three_numbers.rb
 [s647]:./problems/palindromic_substrings.rb
 [s653]:./problems/two_sum_4_BST.rb
