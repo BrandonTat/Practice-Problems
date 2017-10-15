@@ -68,6 +68,7 @@
 | 257 | [Binary Tree Paths][q257]                        | [Ruby][s257] | Easy       |
 | 258 | [Add Digit][q258]                                | [Ruby][s258] | Easy       |
 | 260 | [Single Number III][q260]                        | [Ruby][s260] | Medium     |
+| 263 | [Ugly Number][q263]                              | [Ruby][s263] | Easy       |
 | 268 | [Missing Number][q268]                           | [Ruby][s268] | Easy       |
 | 278 | [First Bad Version][q278]                        | [Ruby][s278] | Easy       |
 | 283 | [Move Zeroes][q283]                              | [Ruby][s283] | Medium     |
@@ -185,6 +186,7 @@
 [q257]:https://leetcode.com/problems/binary-tree-paths/description/
 [q258]:https://leetcode.com/problems/add-digits/description/
 [q260]:https://leetcode.com/problems/single-number-iii/description/
+[q263]:https://leetcode.com/problems/ugly-number/description/
 [q268]:https://leetcode.com/problems/missing-number/description/
 [q278]:https://leetcode.com/problems/first-bad-version/description/
 [q283]:https://leetcode.com/problems/move-zeroes/description/
@@ -302,6 +304,7 @@
 [s257]:./problems/binary_tree_paths.rb
 [s258]:./problems/add_digits.rb
 [s260]:./problems/single_number_3.rb
+[s263]:./problems/ugly_number.rb
 [s268]:./problems/missing_number.rb
 [s278]:./problems/first_bad_version.rb
 [s283]:./problems/move_zeroes.rb
