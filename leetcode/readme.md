@@ -101,7 +101,7 @@
 | 463 | [Island Permiter][q463]                          | [Ruby][s463] | Easy       |
 | 476 | [Number Complement][q476]                        | [Ruby][s476] | Easy       |
 | 501 | [Find Mode in BST][q501]                         | [Ruby][s501] | Easy       |
-| 515 | [Find Largest Value in Each Tree Row][q515]      | [Ruby][s515] | Easy       |
+| 515 | [Find Largest Value in Each Tree Row][q515]      | [Ruby][s515] | Medium     |
 | 518 | [Coin Change 2][q518]                            | [Ruby][s518] | Medium     |
 | 520 | [Detect Capital][q520]                           | [Ruby][s520] | Easy       |
 | 530 | [Min Absolute Difference in BST][q530]           | [Ruby][s530] | Easy       |
