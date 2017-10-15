@@ -30,6 +30,7 @@
 | 69  | [Sqrt of X][q69]                                 | [Ruby][s69]  | Easy       |
 | 70  | [Climbing Stairs][q70]                           | [Ruby][s70]  | Easy       |
 | 72  | [Edit Distance][q72]                             | [Ruby][s72]  | Hard       |
+| 74  | [Search a 2D Matrix][q74]                        | [Ruby][s74]  | Medium     |
 | 75  | [Sort Colors][q75]                               | [Ruby][s75]  | Medium     |
 | 79  | [Word Search][q79]                               | [Ruby][s79]  | Medium     |
 | 83  | [Remove Duplicates Sorted List][q83]             | [Ruby][s83]  | Easy       |
@@ -148,6 +149,7 @@
 [q69]:https://leetcode.com/problems/sqrtx/description/
 [q70]:https://leetcode.com/problems/climbing-stairs/description/
 [q72]:https://leetcode.com/problems/edit-distance/description/
+[q74]:https://leetcode.com/problems/search-a-2d-matrix/description/
 [q75]:https://leetcode.com/problems/sort-colors/description/
 [q79]:https://leetcode.com/problems/word-search/description/
 [q83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -266,6 +268,7 @@
 [s69]:./problems/sqrt_x.rb
 [s70]:./problems/climbing_stairs.rb
 [s72]:./problems/edit_distance.rb
+[s74]:./problems/search_a_2d_matrix.rb
 [s75]:./problems/sort_colors.rb
 [s79]:./problems/word_search.rb
 [s83]:./problems/remove_duplicates_sorted_list.rb
