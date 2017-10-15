@@ -12,15 +12,11 @@
 # param {String[]} strs
 # return {String[][]}
 def group_anagrams(strs)
-  anagrams = {}
+  anagrams = Hash.new { |h, k| h[k] = [] }
 
   strs.each do |str|
     sort = str.split("").sort
-    if anagrams[sort]
-      anagrams[sort].push(str)
-    else
-      anagrams[sort] = [str]
-    end
+    anagrams[sort] << str
   end
 
   anagrams.values
