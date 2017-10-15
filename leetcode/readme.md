@@ -21,6 +21,7 @@
 | 54  | [Spiral Matrix I][q54]                           | [Ruby][s54]  | Medium     |
 | 56  | [Merge Intervals][q56]                           | [Ruby][s56]  | Medium     |
 | 58  | [Length of Last Word][q58]                       | [Ruby][s58]  | Easy       |
+| 59  | [Spiral Matrix II][q59]                          | [Ruby][s59]  | Medium     |
 | 62  | [Unique Paths][q62]                              | [Ruby][s62]  | Medium     |
 | 63  | [Unique Paths II][q63]                           | [Ruby][s63]  | Medium     |
 | 64  | [Minimum Path Sum][q64]                          | [Ruby][s64]  | Medium     |
@@ -133,6 +134,7 @@
 [q54]:https://leetcode.com/problems/spiral-matrix/description/
 [q56]:https://leetcode.com/problems/merge-intervals/description/
 [q58]:https://leetcode.com/problems/length-of-last-word/description/
+[q59]:https://leetcode.com/problems/spiral-matrix-ii/description/
 [q62]:https://leetcode.com/problems/unique-paths/description/
 [q63]:https://leetcode.com/problems/unique-paths-ii/description/
 [q64]:https://leetcode.com/problems/minimum-path-sum/description/
@@ -245,6 +247,7 @@
 [s54]:./problems/spiral_matrix_I.rb
 [s56]:./problems/merge_intervals.rb
 [s58]:./problems/length_of_last_word.rb
+[s59]:./problems/spiral_matrix_2.rb
 [s62]:./problems/unique_paths.rb
 [s63]:./problems/unique_paths_2.rb
 [s64]:./problems/minimum_path_sum.rb
