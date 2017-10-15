@@ -13,6 +13,7 @@
 | 20  | [Valid Parentheses][q20]                         | [Ruby][s20]  | Easy       |
 | 21  | [Merge Tow Sorted Lists][q21]                    | [Ruby][s21]  | Easy       |
 | 26  | [Remove Duplicates Sorted Array][q26]            | [Ruby][s26]  | Easy       |
+| 33  | [Search in Rotated Sorted Array][q33]            | [Ruby][s33]  | Medium     |
 | 35  | [Search Insert Position][q35]                    | [Ruby][s35]  | Easy       |
 | 39  | [Combination Sum][q39]                           | [Ruby][s39]  | Medium     |
 | 40  | [Combination Sum II][q40]                        | [Ruby][s40]  | Medium     |
@@ -126,6 +127,7 @@
 [q20]:https://leetcode.com/problems/valid-parentheses/description/
 [q21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [q26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+[q33]:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [q35]:https://leetcode.com/problems/search-insert-position/description/
 [q39]:https://leetcode.com/problems/combination-sum/description/
 [q40]:https://leetcode.com/problems/combination-sum-ii/description/
@@ -239,6 +241,7 @@
 [s20]:./problems/valid_parentheses.rb
 [s21]:./problems/merge_two_sorted_lists.rb
 [s26]:./problems/remove_duplicates_from_sorted_array.rb
+[S33]:./problems/search_in_rotated_sorted_array.rb
 [s35]:./problems/search_insert_position.rb
 [s39]:./problems/combination_sum.rb
 [s40]:./problems/combination_sum2.rb
