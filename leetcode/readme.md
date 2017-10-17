@@ -62,6 +62,7 @@
 | 205 | [Isomorphic Strings][q205]                       | [Ruby][s205] | Medium     |
 | 206 | [Reverse a Linked List][q206]                    | [Ruby][s206] | Easy       |
 | 207 | [Course Schedule][q207]                          | [Ruby][s207] | Medium     |
+| 216 | [Combination Sum III][q216]                      | [Ruby][s216] | Medium     |
 | 217 | [Contains Duplicate][q217]                       | [Ruby][s217] | Easy       |
 | 221 | [Maximal Square][q221]                           | [Ruby][s221] | Medium     |
 | 231 | [Power of Two][q231]                             | [Ruby][s231] | Easy       |
@@ -182,6 +183,7 @@
 [q205]:https://leetcode.com/problems/isomorphic-strings/description/
 [q206]:https://leetcode.com/problems/reverse-linked-list/description/
 [q207]:https://leetcode.com/problems/course-schedule/description/
+[q216]:https://leetcode.com/problems/combination-sum-iii/description/
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
 [q231]:https://leetcode.com/problems/power-of-two/description/
@@ -302,6 +304,7 @@
 [s205]:./problems/isomorphic_strings.rb
 [s206]:./problems/reverse_linked_list.rb
 [s207]:./problems/course_schedule.rb
+[s216]:./problems/combination_sum_3.rb
 [s217]:./problems/contain_duplicate.rb
 [s221]:./problems/maximal_square.rb
 [s231]:./problems/power_of_two.rb
