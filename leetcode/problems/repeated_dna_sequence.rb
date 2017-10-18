@@ -14,18 +14,17 @@
 # return {String[]}
 
 def find_repeated_dna_sequences(s)
-  repeated_sequences = {}
+  sequences = Hash.new { |h, k| h[k] = 0 }
 
-  (0...s.length - 10).step.each do |i|
-    sequence = s.slice(i, 10)
-    if repeated_sequences[sequence]
-      repeated_sequences[sequence] += 1
-    else
-      repeated_sequences[sequence] = 1
-    end
+  (0...s.length).each do |i|
+    subsequence = s[i, 10]
+    next if subsequence.length != 10
+
+    sequences[subsequence] += 1
   end
 
-  repeated_sequences.keys.select do |sequence|
-    repeated_sequences[sequence] > 1
-  end
+  sequences.keys.select { |k| sequences[k] > 1 }
 end
+
+# Time Complexity - O(n)
+# Space Complexity - O(n)
