@@ -113,6 +113,7 @@
 | 540 | [Single Element in a Sorted Array][q540]         | [Ruby][s540] | Easy       |
 | 542 | [01 Matrix][q542]                                | [Ruby][s542] | Medium     |
 | 547 | [Friend Circles][q547]                           | [Ruby][s547] | Medium     |
+| 557 | [Reverse Words in a String III][q557]            | [Ruby][s557] | Easy       |
 | 566 | [Reshape the Matrix][q566]                       | [Ruby][s566] | Easy       |
 | 599 | [Minimum Index Sum of Two Lists][q599]           | [Ruby][s599] | Easy       |
 | 605 | [Can Place Flowers][q605]                        | [Ruby][s605] | Easy       |
@@ -239,6 +240,7 @@
 [q540]:https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 [q542]:https://leetcode.com/problems/01-matrix/description/
 [q547]:https://leetcode.com/problems/friend-circles/description/
+[q557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [q599]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
 [q605]:https://leetcode.com/problems/can-place-flowers/description/
@@ -364,7 +366,8 @@
 [s530]:./problems/min_abs_diff_bst.rb
 [s540]:./problems/single_element_sorted_array.rb
 [s542]:./problems/01_matrix.rb
-[S547]:./problems/friend_circles.rb
+[s547]:./problems/friend_circles.rb
+[s557]:./problems/reverse_words_in_a_string_3.rb
 [s566]:./problems/reshape_the_matrix.rb
 [s599]:./problems/minimum_index_sum_of_two_lists.rb
 [s605]:./problems/can_place_flowers.rb
