@@ -120,6 +120,7 @@
 | 628 | [Maximum Product of Three Numbers][q628]         | [Ruby][s628] | Easy       |
 | 637 | [Average of Levels in Binary Tree][q637]         | [Ruby][s637] | Easy       |
 | 647 | [Palindromic Substrings][q647]                   | [Ruby][s647] | Medium     |
+| 648 | [Replace Words][q648]                            | [Ruby][s648] | Medium     |
 | 653 | [Two Sum IV - Input is a BST][q653]              | [Ruby][s653] | Easy       |
 | 657 | [Judge Route Circle][q657]                       | [Ruby][s657] | Easy       |
 | 665 | [Non Decreasing Array][q665]                     | [Ruby][s665] | Easy       |
@@ -247,6 +248,7 @@
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [q637]:https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
+[q648]:https://leetcode.com/problems/replace-words/description/
 [q653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [q657]:https://leetcode.com/problems/judge-route-circle/description/
 [q665]:https://leetcode.com/problems/non-decreasing-array/description/
@@ -374,6 +376,7 @@
 [s628]:./problems/max_product_of_three_numbers.rb
 [s637]:./problems/average_of_levels_in_binary_tree.rb
 [s647]:./problems/palindromic_substrings.rb
+[s648]:./problems/replace_words.rb
 [s653]:./problems/two_sum_4_BST.rb
 [s657]:./problems/judge_route_circle.rb
 [s665]:./problems/non_decreasing_array.rb
