@@ -83,6 +83,7 @@
 | 345 | [Reverse Vowels of a String][q345]               | [Ruby][s345] | Easy       |
 | 347 | [Top K Frequent Elements][q347]                  | [Ruby][s347] | Medium     |
 | 349 | [Intersection of Two Arrays][q349]               | [Ruby][s349] | Easy       |
+| 350 | [Intersection of Two Arrays II][q350]            | [Ruby][s350] | Easy       |
 | 367 | [Valid Perfect Square][q367]                     | [Ruby][s367] | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373]          | [Ruby][s373] | Medium     |
 | 377 | [Combination Sum IV][q377]                       | [Ruby][s377] | Medium     |
@@ -206,6 +207,7 @@
 [q345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 [q347]:https://leetcode.com/problems/top-k-frequent-elements/description/
 [q349]:https://leetcode.com/problems/intersection-of-two-arrays/description/
+[q350]:https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
 [q367]:https://leetcode.com/problems/valid-perfect-square/description/
 [q373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 [q377]:https://leetcode.com/problems/combination-sum-iv/description/
@@ -329,6 +331,7 @@
 [s345]:./problems/reverse_vowels_of_a_str.rb
 [s347]:./problems/k_frequent_elements.rb
 [s349]:./problems/intersection_of_two_arrays.rb
+[s350]:./problems/intersection_of_two_arrays_2.rb
 [s367]:./problems/valid_perfect_square.rb
 [s373]:./problems/k_pairs_smallest_sums.rb
 [s377]:./problems/combination_sum_4.rb
