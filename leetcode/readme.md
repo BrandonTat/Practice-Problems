@@ -103,6 +103,7 @@
 | 461 | [Hamming Distance][q461]                         | [Ruby][s461] | Easy       |
 | 463 | [Island Permiter][q463]                          | [Ruby][s463] | Easy       |
 | 476 | [Number Complement][q476]                        | [Ruby][s476] | Easy       |
+| 482 | [License Key Formatting][q482]                   | [Ruby][s482] | Medium     |
 | 485 | [Max Consecutive Ones]][q485]                    | [Ruby][s485] | Easy       |
 | 501 | [Find Mode in BST][q501]                         | [Ruby][s501] | Easy       |
 | 515 | [Find Largest Value in Each Tree Row][q515]      | [Ruby][s515] | Medium     |
@@ -228,6 +229,7 @@
 [q461]:https://leetcode.com/problems/hamming-distance/description/
 [q463]:https://leetcode.com/problems/island-perimeter/description/
 [q476]:https://leetcode.com/problems/number-complement/description/
+[q482]:https://leetcode.com/problems/license-key-formatting/description/
 [q485]:https://leetcode.com/problems/max-consecutive-ones/description/
 [q501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
 [q515]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
@@ -353,6 +355,7 @@
 [s461]:./problems/hamming_distance.rb
 [s463]:./problems/island_permiter.rb
 [s476]:./problems/number_complement.rb
+[s482]:./problems/license_key_formatting.rb
 [s485]:./problems/max_consecutive_ones.rb
 [s501]:./problems/find_mode_bst.rb
 [s515]:./problems/find_largest_value_in_each_tree_row.rb
