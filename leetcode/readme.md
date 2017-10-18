@@ -116,6 +116,7 @@
 | 599 | [Minimum Index Sum of Two Lists][q599]           | [Ruby][s599] | Easy       |
 | 605 | [Can Place Flowers][q605]                        | [Ruby][s605] | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]         | [Ruby][s628] | Easy       |
+| 637 | [Average of Levels in Binary Tree][q637]         | [Ruby][s637] | Easy       |
 | 647 | [Palindromic Substrings][q647]                   | [Ruby][s647] | Medium     |
 | 653 | [Two Sum IV - Input is a BST][q653]              | [Ruby][s653] | Easy       |
 | 657 | [Judge Route Circle][q657]                       | [Ruby][s657] | Easy       |
@@ -240,6 +241,7 @@
 [q599]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
 [q605]:https://leetcode.com/problems/can-place-flowers/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+[q637]:https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
 [q653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [q657]:https://leetcode.com/problems/judge-route-circle/description/
@@ -364,6 +366,7 @@
 [s599]:./problems/minimum_index_sum_of_two_lists.rb
 [s605]:./problems/can_place_flowers.rb
 [s628]:./problems/max_product_of_three_numbers.rb
+[s637]:./problems/average_of_levels_in_binary_tree.rb
 [s647]:./problems/palindromic_substrings.rb
 [s653]:./problems/two_sum_4_BST.rb
 [s657]:./problems/judge_route_circle.rb
