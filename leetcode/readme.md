@@ -65,6 +65,7 @@
 | 216 | [Combination Sum III][q216]                      | [Ruby][s216] | Medium     |
 | 217 | [Contains Duplicate][q217]                       | [Ruby][s217] | Easy       |
 | 221 | [Maximal Square][q221]                           | [Ruby][s221] | Medium     |
+| 228 | [Summary Ranges][q228]                           | [Ruby][s228] | Medium     |
 | 231 | [Power of Two][q231]                             | [Ruby][s231] | Easy       |
 | 242 | [Valid Anagram][q242]                            | [Ruby][s242] | Easy       |
 | 257 | [Binary Tree Paths][q257]                        | [Ruby][s257] | Easy       |
@@ -187,6 +188,7 @@
 [q216]:https://leetcode.com/problems/combination-sum-iii/description/
 [q217]:https://leetcode.com/problems/contains-duplicate/description/
 [q221]:https://leetcode.com/problems/maximal-square/description/
+[q228]:https://leetcode.com/problems/summary-ranges/description/
 [q231]:https://leetcode.com/problems/power-of-two/description/
 [q242]:https://leetcode.com/problems/valid-anagram/description/
 [q257]:https://leetcode.com/problems/binary-tree-paths/description/
@@ -309,6 +311,7 @@
 [s216]:./problems/combination_sum_3.rb
 [s217]:./problems/contain_duplicate.rb
 [s221]:./problems/maximal_square.rb
+[s228]:./problems/summary_ranges.rb
 [s231]:./problems/power_of_two.rb
 [s242]:./problems/valid_anagram.rb
 [s257]:./problems/binary_tree_paths.rb
