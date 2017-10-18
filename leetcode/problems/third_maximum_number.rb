@@ -28,9 +28,9 @@
 def third_max(nums)
   uniq_nums = nums.uniq
 
-  first_greatest = -1.0/0.0
-  second_greatest = -1.0/0.0
-  third_greatest = -1.0/0.0
+  first_greatest = -1.0 / 0.0
+  second_greatest = -1.0 / 0.0
+  third_greatest = -1.0 / 0.0
 
   uniq_nums.each do |num|
     if num > first_greatest
@@ -45,5 +45,8 @@ def third_max(nums)
     end
   end
 
-  third_greatest == -1.0/0.0 ? first_greatest : third_greatest
+  third_greatest == -1.0 / 0.0 ? first_greatest : third_greatest
 end
+
+# Time Complexity - O(n)
+# Space Complexity - O(1)
