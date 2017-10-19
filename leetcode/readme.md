@@ -36,6 +36,7 @@
 | 83  | [Remove Duplicates Sorted List][q83]             | [Ruby][s83]  | Easy       |
 | 88  | [Merge Sorted Array][q88]                        | [Ruby][s88]  | Easy       |
 | 92  | [Reverse Linked List II][q92]                    | [Ruby][s92]  | Medium     |
+| 94  | [Binary Tree Inorder Traversal][q94]             | [Ruby][s94]  | Medium     |
 | 98  | [Validate BST][q98]                              | [Ruby][s98]  | Medium     |
 | 100 | [Same Tree][q100]                                | [Ruby][s100] | Easy       |
 | 101 | [Symmetric Tree][q101]                           | [Ruby][s101] | Easy       |
@@ -164,6 +165,7 @@
 [q83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [q88]:https://leetcode.com/problems/merge-sorted-array/description/
 [q92]:https://leetcode.com/problems/reverse-linked-list-ii/description/
+[q94]:https://leetcode.com/problems/binary-tree-inorder-traversal/description/
 [q98]:https://leetcode.com/problems/validate-binary-search-tree/description/
 [q100]:https://leetcode.com/problems/same-tree/description/
 [q101]:https://leetcode.com/problems/symmetric-tree/description/
@@ -292,6 +294,7 @@
 [s83]:./problems/remove_duplicates_sorted_list.rb
 [s88]:./problems/merge_sorted_array.rb
 [s92]:./problems/reverse_linked_list_2.rb
+[s94]:./problems/inorder_traversal.rb
 [s98]:./problems/validate_bst.rb
 [s100]:./problems/same_tree.rb
 [s101]:./problems/symmetric_tree.rb
