@@ -83,7 +83,7 @@
 | 307 | [Range Sum Query][q307]                          | [Ruby][s307] | Medium     |
 | 326 | [Power of Three][q326]                           | [Ruby][s326] | Easy       |
 | 342 | [Power of Four][q342]                            | [Ruby][s342] | Easy       |
-| 345 | [Reverse Vowels of a String][q345]               | [Ruby][s345] | Easy       |
+| 345 | [Reverse Vowels of a String][q345]               | [JavaScript][js345], [Ruby][s345] | Easy       |
 | 347 | [Top K Frequent Elements][q347]                  | [Ruby][s347] | Medium     |
 | 349 | [Intersection of Two Arrays][q349]               | [Ruby][s349] | Easy       |
 | 350 | [Intersection of Two Arrays II][q350]            | [Ruby][s350] | Easy       |
@@ -394,3 +394,5 @@
 [s680]:./problems/valid_palindrome_2.rb
 [s692]:./problems/top_k_frequent_words.rb
 [s695]:./problems/max_area_of_island.rb
+
+[js345]:./javascript_problems/reverse_vowels_of_a_str.js
