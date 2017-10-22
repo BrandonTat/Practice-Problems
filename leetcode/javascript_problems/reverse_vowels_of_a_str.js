@@ -15,22 +15,22 @@
  * @return {string}
  */
 
-var reverseVowels = (s) => {
-  let vowels = "aeiouAEIOU".split('');
-  let wordArr = s.split('');
-  let vowelsInWord = [];
+ var reverseVowels = (s) => {
+   let vowels = new Set("aeiouAEIOU".split(''));
+   let wordArr = s.split('');
+   let vowelsInWord = [];
 
-  for (let i = 0; i < s.length; i++) {
-    if (vowels.includes(s[i])) {
-      vowelsInWord.push(s[i]);
-    }
-  }
+   for (let i = 0; i < s.length; i++) {
+     if (vowels.has(s[i])) {
+       vowelsInWord.push(s[i]);
+     }
+   }
 
-  for (let i = 0; i < wordArr.length; i++) {
-    if (vowels.includes(wordArr[i])) {
-      wordArr[i] = vowelsInWord.pop();
-    }
-  }
+   for (let i = 0; i < wordArr.length; i++) {
+     if (vowels.has(wordArr[i])) {
+       wordArr[i] = vowelsInWord.pop();
+     }
+   }
 
-  return vowelsInWord.join('');
-};
+   return wordArr.join('');
+ };
