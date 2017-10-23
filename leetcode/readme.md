@@ -6,7 +6,7 @@
 | 2   | [Add Two Numbers][q2]                            | [Ruby][s2]                        | Medium     |
 | 5   | [Longest Palindromic Substring][q5]              | [Ruby][s5]                        | Medium     |
 | 7   | [Reverse Integer][q7]                            | [Ruby][s7]                        | Easy       |
-| 9   | [Palindrome Number][q9]                          | [Ruby][s9]                        | Easy       |
+| 9   | [Palindrome Number][q9]                          | [JavaScript][js9], [Ruby][s9]     | Easy       |
 | 12  | [Integer to Roman][q12]                          | [Ruby][s12]                       | Medium     |
 | 13  | [Roman to Integer][q13]                          | [Ruby][s13]                       | Easy       |
 | 17  | [Letter Combinations Phone Number][q17]          | [Ruby][s17]                       | Medium     |
@@ -58,7 +58,7 @@
 | 155 | [Min Stack][q155]                                | [JavaScript][js155], [Ruby][s155] | Easy       |
 | 167 | [Two Sum II][q167]                               | [Ruby][s167]                      | Easy       |
 | 169 | [Majority Element][q169]                         | [JavaScript][js169], [Ruby][s169] | Easy       |
-| 187 | [Repeated DNA Sequence][q187]                    | [Ruby][s187]                      | Medium     |
+| 187 | [Repeated DNA Sequence][q187]                    | [JavaScript][js187], [Ruby][s187] | Medium     |
 | 198 | [House Robber][q198]                             | [Ruby][s198]                      | Easy       |
 | 200 | [Number of Islands][q200]                        | [Ruby][s200]                      | Medium     |
 | 202 | [Happy Number][q202]                             | [Ruby][s202]                      | Easy       |
@@ -399,6 +399,7 @@
 [s692]:./problems/top_k_frequent_words.rb
 [s695]:./problems/max_area_of_island.rb
 
+[js9]:./javascript_problems/palindrome_number.js
 [js20]:./javascript_problems/valid_parentheses.js
 [js49]:./javascript_problems/group_anagrams.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
@@ -406,6 +407,7 @@
 [js136]:./javascript_problems/single_number.js
 [js155]:./javascript_problems/min_stack.js
 [js169]:./javascript_problems/majority_element.js
+[js187]:./javascript_problems/repeated_dna_sequences.js
 [js242]:./javascript_problems/valid_anagram.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
