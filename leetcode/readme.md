@@ -30,6 +30,7 @@
 | 69  | [Sqrt of X][q69]                                 | [Ruby][s69]                       | Easy       |
 | 70  | [Climbing Stairs][q70]                           | [Ruby][s70]                       | Easy       |
 | 72  | [Edit Distance][q72]                             | [Ruby][s72]                       | Hard       |
+| 73  | [Set Matrix Zeroes][q73]                         | [JavaScript][s73]                 | Medium     |
 | 74  | [Search a 2D Matrix][q74]                        | [Ruby][s74]                       | Medium     |
 | 75  | [Sort Colors][q75]                               | [Ruby][s75]                       | Medium     |
 | 78  | [Subsets][q78]                                   | [Ruby][s78]                       | Medium     |
@@ -161,6 +162,7 @@
 [q69]:https://leetcode.com/problems/sqrtx/description/
 [q70]:https://leetcode.com/problems/climbing-stairs/description/
 [q72]:https://leetcode.com/problems/edit-distance/description/
+[q73]:https://leetcode.com/problems/set-matrix-zeroes/description/
 [q74]:https://leetcode.com/problems/search-a-2d-matrix/description/
 [q75]:https://leetcode.com/problems/sort-colors/description/
 [q78]:https://leetcode.com/problems/subsets/description/
@@ -395,6 +397,7 @@
 [s692]:./problems/top_k_frequent_words.rb
 [s695]:./problems/max_area_of_island.rb
 
+[js73]:./javascript_problems/set_matrix_zeroes.js
 [js155]:./javascript_problems/min_stack.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
