@@ -71,7 +71,7 @@
 | 221 | [Maximal Square][q221]                           | [Ruby][s221]                      | Medium     |
 | 228 | [Summary Ranges][q228]                           | [Ruby][s228]                      | Medium     |
 | 231 | [Power of Two][q231]                             | [Ruby][s231]                      | Easy       |
-| 242 | [Valid Anagram][q242]                            | [Ruby][s242]                      | Easy       |
+| 242 | [Valid Anagram][q242]                            | [JavaScript][js242], [Ruby][s242] | Easy       |
 | 257 | [Binary Tree Paths][q257]                        | [Ruby][s257]                      | Easy       |
 | 258 | [Add Digit][q258]                                | [Ruby][s258]                      | Easy       |
 | 260 | [Single Number III][q260]                        | [Ruby][s260]                      | Medium     |
@@ -402,5 +402,6 @@
 [js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
 [js155]:./javascript_problems/min_stack.js
+[js242]:./javascript_problems/valid_anagram.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
