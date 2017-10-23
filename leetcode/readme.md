@@ -47,7 +47,7 @@
 | 107 | [Binary Tree Level Order Traversal II][q107]     | [Ruby][s107]                      | Easy       |
 | 110 | [Balanced Binary Tree][q110]                     | [Ruby][s110]                      | Easy       |
 | 111 | [Minimum Depth of Binary Tree][q111]             | [Ruby][s111]                      | Easy       |
-| 112 | [Path Sum][q112]                                 | [Ruby][s112]                      | Easy       |
+| 112 | [Path Sum][q112]                                 | [JavaScript][js112], [Ruby][s112] | Easy       |
 | 113 | [Path Sum II][q113]                              | [Ruby][s113]                      | Medium     |
 | 120 | [Triangle][q120]                                 | [Ruby][s120]                      | Medium     |
 | 121 | [Best Time to Buy and Sell Stock][q121]          | [Ruby][s121]                      | Easy       |
@@ -398,6 +398,7 @@
 [s695]:./problems/max_area_of_island.rb
 
 [js73]:./javascript_problems/set_matrix_zeroes.js
+[js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
 [js155]:./javascript_problems/min_stack.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
