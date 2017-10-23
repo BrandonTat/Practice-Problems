@@ -57,7 +57,7 @@
 | 150 | [Evaluate RPN][q150]                             | [Ruby][s150]                      | Medium     |
 | 155 | [Min Stack][q155]                                | [JavaScript][js155], [Ruby][s155] | Easy       |
 | 167 | [Two Sum II][q167]                               | [Ruby][s167]                      | Easy       |
-| 169 | [Majority Element][q169]                         | [Ruby][s169]                      | Easy       |
+| 169 | [Majority Element][q169]                         | [JavaScript][js169], [Ruby][s169] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]                    | [Ruby][s187]                      | Medium     |
 | 198 | [House Robber][q198]                             | [Ruby][s198]                      | Easy       |
 | 200 | [Number of Islands][q200]                        | [Ruby][s200]                      | Medium     |
@@ -403,6 +403,7 @@
 [js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
 [js155]:./javascript_problems/min_stack.js
+[js169]:./javascript_problems/majority_element.js
 [js242]:./javascript_problems/valid_anagram.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
