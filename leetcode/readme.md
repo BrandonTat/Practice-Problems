@@ -10,7 +10,7 @@
 | 12  | [Integer to Roman][q12]                          | [Ruby][s12]                       | Medium     |
 | 13  | [Roman to Integer][q13]                          | [Ruby][s13]                       | Easy       |
 | 17  | [Letter Combinations Phone Number][q17]          | [Ruby][s17]                       | Medium     |
-| 20  | [Valid Parentheses][q20]                         | [Ruby][s20]                       | Easy       |
+| 20  | [Valid Parentheses][q20]                         | [JavaScript][s20], [Ruby][s20]    | Easy       |
 | 21  | [Merge Tow Sorted Lists][q21]                    | [Ruby][s21]                       | Easy       |
 | 26  | [Remove Duplicates Sorted Array][q26]            | [Ruby][s26]                       | Easy       |
 | 33  | [Search in Rotated Sorted Array][q33]            | [Ruby][s33]                       | Medium     |
@@ -397,6 +397,7 @@
 [s692]:./problems/top_k_frequent_words.rb
 [s695]:./problems/max_area_of_island.rb
 
+[js20]:./javascript_problems/valid_parentheses.js
 [js49]:./javascript_problems/group_anagrams.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
 [js112]:./javascript_problems/path_sum.js
