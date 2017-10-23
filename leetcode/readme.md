@@ -18,7 +18,7 @@
 | 39  | [Combination Sum][q39]                           | [Ruby][s39]                       | Medium     |
 | 40  | [Combination Sum II][q40]                        | [Ruby][s40]                       | Medium     |
 | 46  | [Permutations][q46]                              | [Ruby][s46]                       | Medium     |
-| 49  | [Group Anagrams][q49]                            | [Ruby][s49]                       | Medium     |
+| 49  | [Group Anagrams][q49]                            | [JavaScript][s49], [Ruby][s49]    | Medium     |
 | 54  | [Spiral Matrix I][q54]                           | [Ruby][s54]                       | Medium     |
 | 56  | [Merge Intervals][q56]                           | [Ruby][s56]                       | Medium     |
 | 58  | [Length of Last Word][q58]                       | [Ruby][s58]                       | Easy       |
@@ -397,6 +397,7 @@
 [s692]:./problems/top_k_frequent_words.rb
 [s695]:./problems/max_area_of_island.rb
 
+[js49]:./javascript_problems/group_anagrams.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
 [js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
