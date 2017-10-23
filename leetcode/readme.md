@@ -91,7 +91,7 @@
 | 367 | [Valid Perfect Square][q367]                     | [Ruby][s367]                      | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373]          | [Ruby][s373]                      | Medium     |
 | 377 | [Combination Sum IV][q377]                       | [Ruby][s377]                      | Medium     |
-| 383 | [Ransom Note][q383]                              | [Ruby][s383]                      | Easy       |
+| 383 | [Ransom Note][q383]                              | [JavaScript][js383], [Ruby][s383] | Easy       |
 | 387 | [Find Unique Character in String][q387]          | [Ruby][s387]                      | Easy       |
 | 389 | [Find the Difference][q389]                      | [Ruby][s389]                      | Easy       |
 | 392 | [Is Subsequence][q392]                           | [Ruby][s392]                      | Medium     |
@@ -102,6 +102,7 @@
 | 434 | [Number of Segments in String][q434]             | [Ruby][s434]                      | Easy       |
 | 437 | [Path Sum III][q437]                             | [Ruby][s437]                      | Medium     |
 | 441 | [Arranging Coins][q441]                          | [Ruby][s441]                      | Easy       |
+| 448 | [Find All Numbers Disappeared in Array][q448]    | [JavaScript][js448]               | Easy       |
 | 451 | [Sort Characters by Frequency][q451]             | [Ruby][s451]                      | Medium     |
 | 453 | [Min Moves to Equal Array Elements][q453]        | [Ruby][s453]                      | Easy       |
 | 461 | [Hamming Distance][q461]                         | [Ruby][s461]                      | Easy       |
@@ -234,6 +235,7 @@
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [q437]:https://leetcode.com/problems/path-sum-iii/description/
 [q441]:https://leetcode.com/problems/arranging-coins/description/
+[q448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [q451]:https://leetcode.com/problems/sort-characters-by-frequency/description/
 [q453]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
 [q461]:https://leetcode.com/problems/hamming-distance/description/
@@ -407,3 +409,5 @@
 [js242]:./javascript_problems/valid_anagram.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
+[js383]:./javascript_problems/ransom_note.js
+[js448]:./javascript_problems/find_all_numbers_disappeared_in_array.js
