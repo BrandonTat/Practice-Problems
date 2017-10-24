@@ -56,7 +56,7 @@
 | 144 | [Binary Tree Preorder Traversal][q144]           | [Ruby][s144]                      | Medium     |
 | 150 | [Evaluate RPN][q150]                             | [Ruby][s150]                      | Medium     |
 | 155 | [Min Stack][q155]                                | [JavaScript][js155], [Ruby][s155] | Easy       |
-| 167 | [Two Sum II][q167]                               | [Ruby][s167]                      | Easy       |
+| 167 | [Two Sum II][q167]                               | [JavaScript][js167], [Ruby][s167] | Easy       |
 | 169 | [Majority Element][q169]                         | [JavaScript][js169], [Ruby][s169] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]                    | [JavaScript][js187], [Ruby][s187] | Medium     |
 | 198 | [House Robber][q198]                             | [Ruby][s198]                      | Easy       |
@@ -412,6 +412,7 @@
 [js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
 [js155]:./javascript_problems/min_stack.js
+[js167]:./javascript_problems/two_sum_2.js
 [js169]:./javascript_problems/majority_element.js
 [js187]:./javascript_problems/repeated_dna_sequences.js
 [js242]:./javascript_problems/valid_anagram.js
