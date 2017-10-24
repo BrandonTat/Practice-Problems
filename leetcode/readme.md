@@ -23,7 +23,7 @@
 | 56  | [Merge Intervals][q56]                           | [Ruby][s56]                       | Medium     |
 | 58  | [Length of Last Word][q58]                       | [Ruby][s58]                       | Easy       |
 | 59  | [Spiral Matrix II][q59]                          | [Ruby][s59]                       | Medium     |
-| 62  | [Unique Paths][q62]                              | [Ruby][s62]                       | Medium     |
+| 62  | [Unique Paths][q62]                              | [JavaScript][js62], [Ruby][s62]   | Medium     |
 | 63  | [Unique Paths II][q63]                           | [Ruby][s63]                       | Medium     |
 | 64  | [Minimum Path Sum][q64]                          | [Ruby][s64]                       | Medium     |
 | 66  | [Plus One][q66]                                  | [Ruby][s66]                       | Easy       |
@@ -86,7 +86,7 @@
 | 342 | [Power of Four][q342]                            | [Ruby][s342]                      | Easy       |
 | 345 | [Reverse Vowels of a String][q345]               | [JavaScript][js345], [Ruby][s345] | Easy       |
 | 347 | [Top K Frequent Elements][q347]                  | [Ruby][s347]                      | Medium     |
-| 349 | [Intersection of Two Arrays][q349]               | [Ruby][s349]                      | Easy       |
+| 349 | [Intersection of Two Arrays][q349]               | [JavaScript][js349], [Ruby][s349] | Easy       |
 | 350 | [Intersection of Two Arrays II][q350]            | [JavaScript][js350], [Ruby][s350] | Easy       |
 | 367 | [Valid Perfect Square][q367]                     | [Ruby][s367]                      | Easy       |
 | 373 | [Find K Pairs with Smallest Sums][q373]          | [Ruby][s373]                      | Medium     |
@@ -279,7 +279,7 @@
 [s20]:./problems/valid_parentheses.rb
 [s21]:./problems/merge_two_sorted_lists.rb
 [s26]:./problems/remove_duplicates_from_sorted_array.rb
-[S33]:./problems/search_in_rotated_sorted_array.rb
+[s33]:./problems/search_in_rotated_sorted_array.rb
 [s35]:./problems/search_insert_position.rb
 [s39]:./problems/combination_sum.rb
 [s40]:./problems/combination_sum2.rb
@@ -402,6 +402,7 @@
 [js9]:./javascript_problems/palindrome_number.js
 [js20]:./javascript_problems/valid_parentheses.js
 [js49]:./javascript_problems/group_anagrams.js
+[js62]:./javascript_problems/unique_paths.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
 [js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
@@ -410,6 +411,7 @@
 [js187]:./javascript_problems/repeated_dna_sequences.js
 [js242]:./javascript_problems/valid_anagram.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
+[js349]:./javascript_problems/intersection_of_two_arrays.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
 [js383]:./javascript_problems/ransom_note.js
 [js448]:./javascript_problems/find_all_numbers_disappeared_in_array.js
