@@ -130,7 +130,7 @@
 | 657 | [Judge Route Circle][q657]                       | [Ruby][s657]                      | Easy       |
 | 665 | [Non Decreasing Array][q665]                     | [Ruby][s665]                      | Easy       |
 | 671 | [Second Min Node in a Binary Tree][q671]         | [Ruby][s671]                      | Easy       |
-| 674 | [Longest Continuous Increasing Subsequence][q674]| [Ruby][s674]                      | Easy       |
+| 674 | [Longest Continuous Increasing Subsequence][q674]| [JavaScript][js674], [Ruby][s674] | Easy       |
 | 680 | [Valid Palindrome II][q680]                      | [Ruby][s680]                      | Easy       |
 | 692 | [Top K Frequent Words][q692]                     | [Ruby][s692]                      | Medium     |
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
@@ -416,3 +416,4 @@
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
 [js383]:./javascript_problems/ransom_note.js
 [js448]:./javascript_problems/find_all_numbers_disappeared_in_array.js
+[js674]:./javascript_problems/longest_cont_increasing_subsequence.js
