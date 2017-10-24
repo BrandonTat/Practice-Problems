@@ -50,7 +50,7 @@
 | 112 | [Path Sum][q112]                                 | [JavaScript][js112], [Ruby][s112] | Easy       |
 | 113 | [Path Sum II][q113]                              | [Ruby][s113]                      | Medium     |
 | 120 | [Triangle][q120]                                 | [Ruby][s120]                      | Medium     |
-| 121 | [Best Time to Buy and Sell Stock][q121]          | [Ruby][s121]                      | Easy       |
+| 121 | [Best Time to Buy and Sell Stock][q121]          | [JavaScript][js121], [Ruby][s121] | Easy       |
 | 125 | [Valid Palindrome][q125]                         | [Ruby][s125]                      | Easy       |
 | 136 | [Single Number][q136]                            | [JavaScript][js136], [Ruby][s136] | Easy       |
 | 144 | [Binary Tree Preorder Traversal][q144]           | [Ruby][s144]                      | Medium     |
@@ -411,6 +411,7 @@
 [js73]:./javascript_problems/set_matrix_zeroes.js
 [js75]:./javascript_problems/sort_colors.js
 [js112]:./javascript_problems/path_sum.js
+[js121]:./javascript_problems/best_time_to_buy_and_sell_stock.js
 [js136]:./javascript_problems/single_number.js
 [js155]:./javascript_problems/min_stack.js
 [js167]:./javascript_problems/two_sum_2.js
