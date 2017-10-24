@@ -20,7 +20,7 @@
 | 46  | [Permutations][q46]                              | [Ruby][s46]                       | Medium     |
 | 49  | [Group Anagrams][q49]                            | [JavaScript][s49], [Ruby][s49]    | Medium     |
 | 54  | [Spiral Matrix I][q54]                           | [Ruby][s54]                       | Medium     |
-| 56  | [Merge Intervals][q56]                           | [Ruby][s56]                       | Medium     |
+| 56  | [Merge Intervals][q56]                           | [JavaScript][js56], [Ruby][s56]   | Medium     |
 | 58  | [Length of Last Word][q58]                       | [Ruby][s58]                       | Easy       |
 | 59  | [Spiral Matrix II][q59]                          | [Ruby][s59]                       | Medium     |
 | 62  | [Unique Paths][q62]                              | [JavaScript][js62], [Ruby][s62]   | Medium     |
@@ -402,6 +402,7 @@
 [js9]:./javascript_problems/palindrome_number.js
 [js20]:./javascript_problems/valid_parentheses.js
 [js49]:./javascript_problems/group_anagrams.js
+[js56]:./javascript_problems/merge_intervals.js
 [js62]:./javascript_problems/unique_paths.js
 [js63]:./javascript_problems/unique_paths_2.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
