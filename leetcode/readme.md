@@ -24,7 +24,7 @@
 | 58  | [Length of Last Word][q58]                       | [Ruby][s58]                       | Easy       |
 | 59  | [Spiral Matrix II][q59]                          | [Ruby][s59]                       | Medium     |
 | 62  | [Unique Paths][q62]                              | [JavaScript][js62], [Ruby][s62]   | Medium     |
-| 63  | [Unique Paths II][q63]                           | [Ruby][s63]                       | Medium     |
+| 63  | [Unique Paths II][q63]                           | [JavaScript][js63], [Ruby][s63]   | Medium     |
 | 64  | [Minimum Path Sum][q64]                          | [Ruby][s64]                       | Medium     |
 | 66  | [Plus One][q66]                                  | [Ruby][s66]                       | Easy       |
 | 69  | [Sqrt of X][q69]                                 | [Ruby][s69]                       | Easy       |
@@ -403,6 +403,7 @@
 [js20]:./javascript_problems/valid_parentheses.js
 [js49]:./javascript_problems/group_anagrams.js
 [js62]:./javascript_problems/unique_paths.js
+[js63]:./javascript_problems/unique_paths_2.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
 [js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
