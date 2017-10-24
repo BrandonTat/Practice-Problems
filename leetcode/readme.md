@@ -102,6 +102,7 @@
 | 434 | [Number of Segments in String][q434]             | [Ruby][s434]                      | Easy       |
 | 437 | [Path Sum III][q437]                             | [Ruby][s437]                      | Medium     |
 | 441 | [Arranging Coins][q441]                          | [Ruby][s441]                      | Easy       |
+| 442 | [Find All Duplicates in an Array][q442]          | [Ruby][s442]                      | Medium     |
 | 448 | [Find All Numbers Disappeared in Array][q448]    | [JavaScript][js448]               | Easy       |
 | 451 | [Sort Characters by Frequency][q451]             | [Ruby][s451]                      | Medium     |
 | 453 | [Min Moves to Equal Array Elements][q453]        | [Ruby][s453]                      | Easy       |
@@ -235,6 +236,7 @@
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [q437]:https://leetcode.com/problems/path-sum-iii/description/
 [q441]:https://leetcode.com/problems/arranging-coins/description/
+[q442]:https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 [q448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [q451]:https://leetcode.com/problems/sort-characters-by-frequency/description/
 [q453]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
@@ -416,5 +418,6 @@
 [js349]:./javascript_problems/intersection_of_two_arrays.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
 [js383]:./javascript_problems/ransom_note.js
+[js442]:./javascript_problems/find_all_duplicates_in_an_array.js
 [js448]:./javascript_problems/find_all_numbers_disappeared_in_array.js
 [js674]:./javascript_problems/longest_cont_increasing_subsequence.js
