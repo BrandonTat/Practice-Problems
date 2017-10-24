@@ -32,7 +32,7 @@
 | 72  | [Edit Distance][q72]                             | [Ruby][s72]                       | Hard       |
 | 73  | [Set Matrix Zeroes][q73]                         | [JavaScript][s73]                 | Medium     |
 | 74  | [Search a 2D Matrix][q74]                        | [Ruby][s74]                       | Medium     |
-| 75  | [Sort Colors][q75]                               | [Ruby][s75]                       | Medium     |
+| 75  | [Sort Colors][q75]                               | [JavaScript[js75], ][Ruby][s75]   | Medium     |
 | 78  | [Subsets][q78]                                   | [Ruby][s78]                       | Medium     |
 | 79  | [Word Search][q79]                               | [Ruby][s79]                       | Medium     |
 | 83  | [Remove Duplicates Sorted List][q83]             | [Ruby][s83]                       | Easy       |
@@ -409,6 +409,7 @@
 [js62]:./javascript_problems/unique_paths.js
 [js63]:./javascript_problems/unique_paths_2.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
+[js75]:./javascript_problems/sort_colors.js
 [js112]:./javascript_problems/path_sum.js
 [js136]:./javascript_problems/single_number.js
 [js155]:./javascript_problems/min_stack.js
