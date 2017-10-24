@@ -2,7 +2,7 @@
 
 | #   | Problem                                          | Solution                          | Difficulty |
 | --- | ------------------------------------------------ | --------------------------------- | ---------- |
-| 1   | [Two Sum][q1]                                    | [Ruby][s1]                        | Easy       |
+| 1   | [Two Sum][q1]                                    | [JavaScript][js1], [Ruby][s1]     | Easy       |
 | 2   | [Add Two Numbers][q2]                            | [Ruby][s2]                        | Medium     |
 | 5   | [Longest Palindromic Substring][q5]              | [Ruby][s5]                        | Medium     |
 | 7   | [Reverse Integer][q7]                            | [Ruby][s7]                        | Easy       |
@@ -401,6 +401,7 @@
 [s692]:./problems/top_k_frequent_words.rb
 [s695]:./problems/max_area_of_island.rb
 
+[js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
 [js20]:./javascript_problems/valid_parentheses.js
 [js49]:./javascript_problems/group_anagrams.js
