@@ -98,9 +98,10 @@
 | 392 | [Is Subsequence][q392]                           | [Ruby][s392]                      | Medium     |
 | 402 | [Remove K Digits][q402]                          | [Ruby][s402]                      | Medium     |
 | 404 | [Sum of Left Leaves][q404]                       | [Ruby][s404]                      | Easy       |
+| 412 | [Fizz Buzz][q412]                                | [JavaScript][js412]               | Easy       |
 | 414 | [Third Maximum Number][q414]                     | [Ruby][s414]                      | Easy       |
 | 419 | [Battleships in a Board][q419]                   | [Ruby][s419]                      | Medium     |
-| 434 | [Number of Segments in String][q434]             | [Ruby][s434]                      | Easy       |
+| 434 | [Number of Segments in String][q434]             | [JavaScript][js434], [Ruby][s434] | Easy       |
 | 437 | [Path Sum III][q437]                             | [Ruby][s437]                      | Medium     |
 | 441 | [Arranging Coins][q441]                          | [Ruby][s441]                      | Easy       |
 | 442 | [Find All Duplicates in an Array][q442]          | [Ruby][s442]                      | Medium     |
@@ -120,7 +121,7 @@
 | 540 | [Single Element in a Sorted Array][q540]         | [Ruby][s540]                      | Easy       |
 | 542 | [01 Matrix][q542]                                | [Ruby][s542]                      | Medium     |
 | 547 | [Friend Circles][q547]                           | [Ruby][s547]                      | Medium     |
-| 557 | [Reverse Words in a String III][q557]            | [Ruby][s557]                      | Easy       |
+| 557 | [Reverse Words in a String III][q557]            | [JavaScript][js557], [Ruby][s557] | Easy       |
 | 566 | [Reshape the Matrix][q566]                       | [Ruby][s566]                      | Easy       |
 | 599 | [Minimum Index Sum of Two Lists][q599]           | [Ruby][s599]                      | Easy       |
 | 605 | [Can Place Flowers][q605]                        | [Ruby][s605]                      | Easy       |
@@ -233,6 +234,7 @@
 [q392]:https://leetcode.com/problems/is-subsequence/description/
 [q402]:https://leetcode.com/problems/remove-k-digits/description/
 [q404]:https://leetcode.com/problems/sum-of-left-leaves/description/
+[q412]:https://leetcode.com/problems/fizz-buzz/description/
 [q414]:https://leetcode.com/problems/third-maximum-number/description/
 [q419]:https://leetcode.com/problems/battleships-in-a-board/description/
 [q434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
@@ -426,6 +428,9 @@
 [js349]:./javascript_problems/intersection_of_two_arrays.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
 [js383]:./javascript_problems/ransom_note.js
+[js412]:./javascript_problems/fizz_buzz.js
+[js434]:./javascript_problems/number_of_segments_in_a_str.js
 [js442]:./javascript_problems/find_all_duplicates_in_an_array.js
 [js448]:./javascript_problems/find_all_numbers_disappeared_in_array.js
+[js557]:./javascript_problems/reverse_words_in_a_string_3.js
 [js674]:./javascript_problems/longest_cont_increasing_subsequence.js
