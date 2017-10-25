@@ -21,7 +21,7 @@
 | 49  | [Group Anagrams][q49]                            | [JavaScript][s49], [Ruby][s49]    | Medium     |
 | 54  | [Spiral Matrix I][q54]                           | [Ruby][s54]                       | Medium     |
 | 56  | [Merge Intervals][q56]                           | [JavaScript][js56], [Ruby][s56]   | Medium     |
-| 58  | [Length of Last Word][q58]                       | [Ruby][s58]                       | Easy       |
+| 58  | [Length of Last Word][q58]                       | [JavaScript][js58], [Ruby][s58]   | Easy       |
 | 59  | [Spiral Matrix II][q59]                          | [Ruby][s59]                       | Medium     |
 | 62  | [Unique Paths][q62]                              | [JavaScript][js62], [Ruby][s62]   | Medium     |
 | 63  | [Unique Paths II][q63]                           | [JavaScript][js63], [Ruby][s63]   | Medium     |
@@ -84,6 +84,7 @@
 | 307 | [Range Sum Query][q307]                          | [Ruby][s307]                      | Medium     |
 | 326 | [Power of Three][q326]                           | [Ruby][s326]                      | Easy       |
 | 342 | [Power of Four][q342]                            | [Ruby][s342]                      | Easy       |
+| 344 | [Reverse String][q344]                           | [JavaScript][js344]               | Easy       |
 | 345 | [Reverse Vowels of a String][q345]               | [JavaScript][js345], [Ruby][s345] | Easy       |
 | 347 | [Top K Frequent Elements][q347]                  | [Ruby][s347]                      | Medium     |
 | 349 | [Intersection of Two Arrays][q349]               | [JavaScript][js349], [Ruby][s349] | Easy       |
@@ -218,6 +219,7 @@
 [q307]:https://leetcode.com/problems/range-sum-query-mutable/description/
 [q326]:https://leetcode.com/problems/power-of-three/description/
 [q342]:https://leetcode.com/problems/power-of-four/description/
+[q344]:https://leetcode.com/problems/reverse-string/description/
 [q345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 [q347]:https://leetcode.com/problems/top-k-frequent-elements/description/
 [q349]:https://leetcode.com/problems/intersection-of-two-arrays/description/
@@ -406,6 +408,7 @@
 [js20]:./javascript_problems/valid_parentheses.js
 [js49]:./javascript_problems/group_anagrams.js
 [js56]:./javascript_problems/merge_intervals.js
+[js58]:./javascript_problems/length_of_last_word.js
 [js62]:./javascript_problems/unique_paths.js
 [js63]:./javascript_problems/unique_paths_2.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
@@ -418,6 +421,7 @@
 [js169]:./javascript_problems/majority_element.js
 [js187]:./javascript_problems/repeated_dna_sequences.js
 [js242]:./javascript_problems/valid_anagram.js
+[js344]:./javascript_problems/reverse_string.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
 [js349]:./javascript_problems/intersection_of_two_arrays.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
