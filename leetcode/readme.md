@@ -137,6 +137,7 @@
 | 680 | [Valid Palindrome II][q680]                      | [Ruby][s680]                      | Easy       |
 | 692 | [Top K Frequent Words][q692]                     | [Ruby][s692]                      | Medium     |
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
+| 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -273,6 +274,7 @@
 [q680]:https://leetcode.com/problems/valid-palindrome-ii/description/
 [q692]:https://leetcode.com/problems/top-k-frequent-words/description/
 [q695]:https://leetcode.com/problems/max-area-of-island/description/
+[q697]:https://leetcode.com/problems/degree-of-an-array/description/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -404,6 +406,7 @@
 [s680]:./problems/valid_palindrome_2.rb
 [s692]:./problems/top_k_frequent_words.rb
 [s695]:./problems/max_area_of_island.rb
+[s697]:./problems/degree_of_an_array.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
