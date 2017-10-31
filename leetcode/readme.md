@@ -139,7 +139,7 @@
 | 674 | [Longest Continuous Increasing Subsequence][q674]| [JavaScript][js674], [Ruby][s674] | Easy       |
 | 680 | [Valid Palindrome II][q680]                      | [Ruby][s680]                      | Easy       |
 | 692 | [Top K Frequent Words][q692]                     | [Ruby][s692]                      | Medium     |
-| 693 | [Binary Number with Alternating Bits][q693]      | [Ruby][s693]                      | Easy       |
+| 693 | [Binary Number with Alternating Bits][q693]      | [JavaScript][js693], [Ruby][s693] | Easy       |
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
 
@@ -449,3 +449,4 @@
 [js448]:./javascript_problems/find_all_numbers_disappeared_in_array.js
 [js557]:./javascript_problems/reverse_words_in_a_string_3.js
 [js674]:./javascript_problems/longest_cont_increasing_subsequence.js
+[js693]:./javascript_problems/binary_number_with_alternating_bits.js
