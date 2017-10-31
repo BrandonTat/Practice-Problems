@@ -129,6 +129,7 @@
 | 605 | [Can Place Flowers][q605]                        | [Ruby][s605]                      | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]         | [Ruby][s628]                      | Easy       |
 | 637 | [Average of Levels in Binary Tree][q637]         | [Ruby][s637]                      | Easy       |
+| 645 | [Set Mismatch][q645]                             | [Ruby][s645]                      | Easy       |
 | 647 | [Palindromic Substrings][q647]                   | [Ruby][s647]                      | Medium     |
 | 648 | [Replace Words][q648]                            | [Ruby][s648]                      | Medium     |
 | 653 | [Two Sum IV - Input is a BST][q653]              | [Ruby][s653]                      | Easy       |
@@ -269,6 +270,7 @@
 [q605]:https://leetcode.com/problems/can-place-flowers/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [q637]:https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
+[q645]:https://leetcode.com/problems/set-mismatch/description/
 [q647]:https://leetcode.com/problems/palindromic-substrings/description/
 [q648]:https://leetcode.com/problems/replace-words/description/
 [q653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
@@ -404,6 +406,7 @@
 [s605]:./problems/can_place_flowers.rb
 [s628]:./problems/max_product_of_three_numbers.rb
 [s637]:./problems/average_of_levels_in_binary_tree.rb
+[s645]:./problems/set_mismatch.rb
 [s647]:./problems/palindromic_substrings.rb
 [s648]:./problems/replace_words.rb
 [s653]:./problems/two_sum_4_BST.rb
