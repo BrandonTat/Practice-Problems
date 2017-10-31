@@ -95,7 +95,7 @@
 | 377 | [Combination Sum IV][q377]                       | [Ruby][s377]                      | Medium     |
 | 383 | [Ransom Note][q383]                              | [JavaScript][js383], [Ruby][s383] | Easy       |
 | 387 | [Find Unique Character in String][q387]          | [Ruby][s387]                      | Easy       |
-| 389 | [Find the Difference][q389]                      | [Ruby][s389]                      | Easy       |
+| 389 | [Find the Difference][q389]                      | [JavaScript][js389], [Ruby][s389] | Easy       |
 | 392 | [Is Subsequence][q392]                           | [Ruby][s392]                      | Medium     |
 | 402 | [Remove K Digits][q402]                          | [Ruby][s402]                      | Medium     |
 | 404 | [Sum of Left Leaves][q404]                       | [Ruby][s404]                      | Easy       |
@@ -445,6 +445,7 @@
 [js349]:./javascript_problems/intersection_of_two_arrays.js
 [js350]:./javascript_problems/intersection_of_two_arrays_2.js
 [js383]:./javascript_problems/ransom_note.js
+[js389]:./javascript_problems/find_the_difference.js
 [js412]:./javascript_problems/fizz_buzz.js
 [js434]:./javascript_problems/number_of_segments_in_a_str.js
 [js442]:./javascript_problems/find_all_duplicates_in_an_array.js
