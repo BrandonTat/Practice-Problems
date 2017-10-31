@@ -136,6 +136,7 @@
 | 674 | [Longest Continuous Increasing Subsequence][q674]| [JavaScript][js674], [Ruby][s674] | Easy       |
 | 680 | [Valid Palindrome II][q680]                      | [Ruby][s680]                      | Easy       |
 | 692 | [Top K Frequent Words][q692]                     | [Ruby][s692]                      | Medium     |
+| 693 | [Binary Number with Alternating Bits][q693]      | [Ruby][s693]                      | Easy       |
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
 
@@ -273,6 +274,7 @@
 [q674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [q680]:https://leetcode.com/problems/valid-palindrome-ii/description/
 [q692]:https://leetcode.com/problems/top-k-frequent-words/description/
+[q693]:https://leetcode.com/problems/binary-number-with-alternating-bits/description/
 [q695]:https://leetcode.com/problems/max-area-of-island/description/
 [q697]:https://leetcode.com/problems/degree-of-an-array/description/
 
@@ -405,6 +407,7 @@
 [s674]:./problems/longest_cont_increasing_subsequence.rb
 [s680]:./problems/valid_palindrome_2.rb
 [s692]:./problems/top_k_frequent_words.rb
+[s693]:./problems/binary_number_with_alternating_bits.rb
 [s695]:./problems/max_area_of_island.rb
 [s697]:./problems/degree_of_an_array.rb
 
