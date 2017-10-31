@@ -124,6 +124,7 @@
 | 547 | [Friend Circles][q547]                           | [Ruby][s547]                      | Medium     |
 | 557 | [Reverse Words in a String III][q557]            | [JavaScript][js557], [Ruby][s557] | Easy       |
 | 566 | [Reshape the Matrix][q566]                       | [Ruby][s566]                      | Easy       |
+| 598 | [Range Addition II][q598]                        | [Ruby][s598]                      | Easy       |
 | 599 | [Minimum Index Sum of Two Lists][q599]           | [Ruby][s599]                      | Easy       |
 | 605 | [Can Place Flowers][q605]                        | [Ruby][s605]                      | Easy       |
 | 628 | [Maximum Product of Three Numbers][q628]         | [Ruby][s628]                      | Easy       |
@@ -263,6 +264,7 @@
 [q547]:https://leetcode.com/problems/friend-circles/description/
 [q557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [q566]:https://leetcode.com/problems/reshape-the-matrix/description/
+[q598]:https://leetcode.com/problems/range-addition-ii/description/
 [q599]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
 [q605]:https://leetcode.com/problems/can-place-flowers/description/
 [q628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
@@ -397,6 +399,7 @@
 [s547]:./problems/friend_circles.rb
 [s557]:./problems/reverse_words_in_a_string_3.rb
 [s566]:./problems/reshape_the_matrix.rb
+[s598]:./problems/range_addition_2.rb
 [s599]:./problems/minimum_index_sum_of_two_lists.rb
 [s605]:./problems/can_place_flowers.rb
 [s628]:./problems/max_product_of_three_numbers.rb
