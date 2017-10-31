@@ -59,7 +59,7 @@
 | 167 | [Two Sum II][q167]                               | [JavaScript][js167], [Ruby][s167] | Easy       |
 | 169 | [Majority Element][q169]                         | [JavaScript][js169], [Ruby][s169] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]                    | [JavaScript][js187], [Ruby][s187] | Medium     |
-| 191 | [Number of 1 Bits][q191]                         | [Ruby][s191]                      | Medium     |
+| 191 | [Number of 1 Bits][q191]                         | [JavaScript][js191], [Ruby][s191] | Medium     |
 | 198 | [House Robber][q198]                             | [Ruby][s198]                      | Easy       |
 | 200 | [Number of Islands][q200]                        | [Ruby][s200]                      | Medium     |
 | 202 | [Happy Number][q202]                             | [Ruby][s202]                      | Easy       |
@@ -437,6 +437,7 @@
 [js167]:./javascript_problems/two_sum_2.js
 [js169]:./javascript_problems/majority_element.js
 [js187]:./javascript_problems/repeated_dna_sequences.js
+[js191]:./javascript_problems/number_of_1_bits.js
 [js242]:./javascript_problems/valid_anagram.js
 [js344]:./javascript_problems/reverse_string.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
