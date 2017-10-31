@@ -59,6 +59,7 @@
 | 167 | [Two Sum II][q167]                               | [JavaScript][js167], [Ruby][s167] | Easy       |
 | 169 | [Majority Element][q169]                         | [JavaScript][js169], [Ruby][s169] | Easy       |
 | 187 | [Repeated DNA Sequence][q187]                    | [JavaScript][js187], [Ruby][s187] | Medium     |
+| 191 | [Number of 1 Bits][q191]                         | [Ruby][s191]                      | Medium     |
 | 198 | [House Robber][q198]                             | [Ruby][s198]                      | Easy       |
 | 200 | [Number of Islands][q200]                        | [Ruby][s200]                      | Medium     |
 | 202 | [Happy Number][q202]                             | [Ruby][s202]                      | Easy       |
@@ -197,6 +198,7 @@
 [q167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [q169]:https://leetcode.com/problems/majority-element/description/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
+[q191]:https://leetcode.com/problems/number-of-1-bits/description/
 [q198]:https://leetcode.com/problems/house-robber/description/
 [q200]:https://leetcode.com/problems/number-of-islands/description/
 [q202]:https://leetcode.com/problems/happy-number/description/
@@ -334,6 +336,7 @@
 [s167]:./problems/two_sum_two.rb
 [s169]:./problems/majority_element.rb
 [s187]:./problems/repeated_dna_sequence.rb
+[s191]:./problems/number_of_1_bits.rb
 [s198]:./problems/house_robber.rb
 [s200]:./problems/number_of_islands.rb
 [s202]:./problems/happy_number.rb
