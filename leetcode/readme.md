@@ -79,7 +79,7 @@
 | 263 | [Ugly Number][q263]                              | [Ruby][s263]                      | Easy       |
 | 268 | [Missing Number][q268]                           | [Ruby][s268]                      | Easy       |
 | 278 | [First Bad Version][q278]                        | [Ruby][s278]                      | Easy       |
-| 283 | [Move Zeroes][q283]                              | [Ruby][s283]                      | Medium     |
+| 283 | [Move Zeroes][q283]                              | [JavaScript][js283], [Ruby][s283] | Medium     |
 | 290 | [Word Pattern][q290]                             | [Ruby][s290]                      | Easy       |
 | 300 | [Longest Increasing Subsequence][q300]           | [Ruby][s300]                      | Medium     |
 | 307 | [Range Sum Query][q307]                          | [Ruby][s307]                      | Medium     |
@@ -439,6 +439,7 @@
 [js187]:./javascript_problems/repeated_dna_sequences.js
 [js191]:./javascript_problems/number_of_1_bits.js
 [js242]:./javascript_problems/valid_anagram.js
+[js283]:./javascript_problems/move_zeroes.js
 [js344]:./javascript_problems/reverse_string.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
 [js349]:./javascript_problems/intersection_of_two_arrays.js
