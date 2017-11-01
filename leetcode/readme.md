@@ -40,7 +40,7 @@
 | 92  | [Reverse Linked List II][q92]                    | [Ruby][s92]                       | Medium     |
 | 94  | [Binary Tree Inorder Traversal][q94]             | [Ruby][s94]                       | Medium     |
 | 98  | [Validate BST][q98]                              | [Ruby][s98]                       | Medium     |
-| 100 | [Same Tree][q100]                                | [Ruby][s100]                      | Easy       |
+| 100 | [Same Tree][q100]                                | [JavaScript][js100], [Ruby][s100] | Easy       |
 | 101 | [Symmetric Tree][q101]                           | [Ruby][s101]                      | Easy       |
 | 102 | [Binary Tree Level Order Traversal][q102]        | [Ruby][s102]                      | Medium     |
 | 104 | [Maximum depth of Binary Tree][q104]             | [Ruby][s104]                      | Easy       |
@@ -115,6 +115,7 @@
 | 482 | [License Key Formatting][q482]                   | [Ruby][s482]                      | Medium     |
 | 485 | [Max Consecutive Ones]][q485]                    | [Ruby][s485]                      | Easy       |
 | 501 | [Find Mode in BST][q501]                         | [Ruby][s501]                      | Easy       |
+| 506 | [Relative Ranks][q506]                           | [JavaScript][js506]               | Easy       |
 | 515 | [Find Largest Value in Each Tree Row][q515]      | [Ruby][s515]                      | Medium     |
 | 518 | [Coin Change 2][q518]                            | [Ruby][s518]                      | Medium     |
 | 520 | [Detect Capital][q520]                           | [Ruby][s520]                      | Easy       |
@@ -256,6 +257,7 @@
 [q482]:https://leetcode.com/problems/license-key-formatting/description/
 [q485]:https://leetcode.com/problems/max-consecutive-ones/description/
 [q501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
+[q506]:https://leetcode.com/problems/relative-ranks/description/
 [q515]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
 [q518]:https://leetcode.com/problems/coin-change-2/description/
 [q520]:https://leetcode.com/problems/detect-capital/description/
@@ -430,6 +432,7 @@
 [js63]:./javascript_problems/unique_paths_2.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
 [js75]:./javascript_problems/sort_colors.js
+[js100]:./javascript_problems/same_tree.js
 [js112]:./javascript_problems/path_sum.js
 [js121]:./javascript_problems/best_time_to_buy_and_sell_stock.js
 [js136]:./javascript_problems/single_number.js
@@ -451,6 +454,7 @@
 [js434]:./javascript_problems/number_of_segments_in_a_str.js
 [js442]:./javascript_problems/find_all_duplicates_in_an_array.js
 [js448]:./javascript_problems/find_all_numbers_disappeared_in_array.js
+[js506]:./javascript_problems/relative_ranks.js
 [js557]:./javascript_problems/reverse_words_in_a_string_3.js
 [js674]:./javascript_problems/longest_cont_increasing_subsequence.js
 [js693]:./javascript_problems/binary_number_with_alternating_bits.js
