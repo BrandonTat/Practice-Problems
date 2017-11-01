@@ -74,7 +74,7 @@
 | 231 | [Power of Two][q231]                             | [Ruby][s231]                      | Easy       |
 | 242 | [Valid Anagram][q242]                            | [JavaScript][js242], [Ruby][s242] | Easy       |
 | 257 | [Binary Tree Paths][q257]                        | [Ruby][s257]                      | Easy       |
-| 258 | [Add Digit][q258]                                | [Ruby][s258]                      | Easy       |
+| 258 | [Add Digit][q258]                                | [JavaScript][js258], [Ruby][s258] | Easy       |
 | 260 | [Single Number III][q260]                        | [Ruby][s260]                      | Medium     |
 | 263 | [Ugly Number][q263]                              | [Ruby][s263]                      | Easy       |
 | 268 | [Missing Number][q268]                           | [Ruby][s268]                      | Easy       |
@@ -439,6 +439,7 @@
 [js187]:./javascript_problems/repeated_dna_sequences.js
 [js191]:./javascript_problems/number_of_1_bits.js
 [js242]:./javascript_problems/valid_anagram.js
+[js258]:./javascript_problems/add_digits.js
 [js283]:./javascript_problems/move_zeroes.js
 [js344]:./javascript_problems/reverse_string.js
 [js345]:./javascript_problems/reverse_vowels_of_a_str.js
