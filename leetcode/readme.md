@@ -28,7 +28,7 @@
 | 64  | [Minimum Path Sum][q64]                          | [Ruby][s64]                       | Medium     |
 | 66  | [Plus One][q66]                                  | [Ruby][s66]                       | Easy       |
 | 69  | [Sqrt of X][q69]                                 | [Ruby][s69]                       | Easy       |
-| 70  | [Climbing Stairs][q70]                           | [Ruby][s70]                       | Easy       |
+| 70  | [Climbing Stairs][q70]                           | [JavaScript][js70], [Ruby][s70]   | Easy       |
 | 72  | [Edit Distance][q72]                             | [Ruby][s72]                       | Hard       |
 | 73  | [Set Matrix Zeroes][q73]                         | [JavaScript][s73]                 | Medium     |
 | 74  | [Search a 2D Matrix][q74]                        | [Ruby][s74]                       | Medium     |
@@ -430,6 +430,7 @@
 [js58]:./javascript_problems/length_of_last_word.js
 [js62]:./javascript_problems/unique_paths.js
 [js63]:./javascript_problems/unique_paths_2.js
+[js70]:./javascript_problems/climbing_stairs.js
 [js73]:./javascript_problems/set_matrix_zeroes.js
 [js75]:./javascript_problems/sort_colors.js
 [js100]:./javascript_problems/same_tree.js
