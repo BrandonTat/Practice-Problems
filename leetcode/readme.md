@@ -143,6 +143,7 @@
 | 693 | [Binary Number with Alternating Bits][q693]      | [JavaScript][js693], [Ruby][s693] | Easy       |
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
+| 747 | [Largest number at least twice others][q747]     | [Ruby][s747]                      | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -285,6 +286,7 @@
 [q693]:https://leetcode.com/problems/binary-number-with-alternating-bits/description/
 [q695]:https://leetcode.com/problems/max-area-of-island/description/
 [q697]:https://leetcode.com/problems/degree-of-an-array/description/
+[q747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -421,6 +423,7 @@
 [s693]:./problems/binary_number_with_alternating_bits.rb
 [s695]:./problems/max_area_of_island.rb
 [s697]:./problems/degree_of_an_array.rb
+[s697]:./problems/largest_number_twice_others.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
