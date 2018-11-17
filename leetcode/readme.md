@@ -145,6 +145,7 @@
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
 | 747 | [Largest number at least twice others][q747]     | [Ruby][s747]                      | Easy       |
 | 917 | [Reverse Only Letters][q917]                     | [Ruby][s917]                      | Easy       |
+| 922 | [Sorty Array By Parity II][q922]                 | [Ruby][s922]                      | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -289,6 +290,7 @@
 [q697]:https://leetcode.com/problems/degree-of-an-array/description/
 [q747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 [q917]:https://leetcode.com/problems/reverse-only-letters/
+[q922]:https://leetcode.com/problems/sort-array-by-parity-ii/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -427,6 +429,7 @@
 [s697]:./problems/degree_of_an_array.rb
 [s747]:./problems/largest_number_twice_others.rb
 [s917]:./problems/reverse_only_letters.rb
+[s922]:./problems/sort_array_by_parity_2.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
