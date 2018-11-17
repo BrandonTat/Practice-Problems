@@ -424,6 +424,7 @@
 [s695]:./problems/max_area_of_island.rb
 [s697]:./problems/degree_of_an_array.rb
 [s697]:./problems/largest_number_twice_others.rb
+[s747]:./problems/largest_number_twice_others.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
