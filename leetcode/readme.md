@@ -143,6 +143,7 @@
 | 693 | [Binary Number with Alternating Bits][q693]      | [JavaScript][js693], [Ruby][s693] | Easy       |
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
+| 724 | [Find Pivot Index][q724]                         | [Ruby][s724]                      | Easy       |
 | 747 | [Largest number at least twice others][q747]     | [Ruby][s747]                      | Easy       |
 | 876 | [Middle of the Linked List][q876]                | [Ruby][s876]                      | Easy       |
 | 917 | [Reverse Only Letters][q917]                     | [Ruby][s917]                      | Easy       |
@@ -289,6 +290,7 @@
 [q693]:https://leetcode.com/problems/binary-number-with-alternating-bits/description/
 [q695]:https://leetcode.com/problems/max-area-of-island/description/
 [q697]:https://leetcode.com/problems/degree-of-an-array/description/
+[q724]:https://leetcode.com/problems/find-pivot-index/
 [q747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 [q876]:https://leetcode.com/problems/middle-of-the-linked-list/
 [q917]:https://leetcode.com/problems/reverse-only-letters/
@@ -429,6 +431,7 @@
 [s693]:./problems/binary_number_with_alternating_bits.rb
 [s695]:./problems/max_area_of_island.rb
 [s697]:./problems/degree_of_an_array.rb
+[s724]:./problems/find_pivot_index.rb
 [s747]:./problems/largest_number_twice_others.rb
 [s876]:./problems/middle_of_linked_list.rb
 [s917]:./problems/reverse_only_letters.rb
