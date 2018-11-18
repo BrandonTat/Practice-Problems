@@ -145,6 +145,7 @@
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
 | 724 | [Find Pivot Index][q724]                         | [Ruby][s724]                      | Easy       |
 | 747 | [Largest number at least twice others][q747]     | [Ruby][s747]                      | Easy       |
+| 832 | [Flipping an Image][q832]                        | [Ruby][s832]                      | Easy       |
 | 876 | [Middle of the Linked List][q876]                | [Ruby][s876]                      | Easy       |
 | 917 | [Reverse Only Letters][q917]                     | [Ruby][s917]                      | Easy       |
 | 922 | [Sorty Array By Parity II][q922]                 | [Ruby][s922]                      | Easy       |
@@ -292,6 +293,7 @@
 [q697]:https://leetcode.com/problems/degree-of-an-array/description/
 [q724]:https://leetcode.com/problems/find-pivot-index/
 [q747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
+[q832]:https://leetcode.com/problems/flipping-an-image/
 [q876]:https://leetcode.com/problems/middle-of-the-linked-list/
 [q917]:https://leetcode.com/problems/reverse-only-letters/
 [q922]:https://leetcode.com/problems/sort-array-by-parity-ii/
@@ -433,6 +435,7 @@
 [s697]:./problems/degree_of_an_array.rb
 [s724]:./problems/find_pivot_index.rb
 [s747]:./problems/largest_number_twice_others.rb
+[s832]:./problems/flipping_an_image.rb
 [s876]:./problems/middle_of_linked_list.rb
 [s917]:./problems/reverse_only_letters.rb
 [s922]:./problems/sort_array_by_parity_2.rb
