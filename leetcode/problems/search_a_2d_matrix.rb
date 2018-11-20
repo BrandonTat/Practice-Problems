@@ -20,23 +20,39 @@
 # return {Boolean}
 
 def search_matrix(matrix, target)
-  matrix.flatten!
+  return false if matrix.nil? || matrix.empty? || matrix.first.empty?
 
-  l, r = 0, matrix.length - 1
+  bottom, top, row = 0, matrix.length - 1, 0
 
-  while l <= r
-    mid = (l + r) / 2
-    if matrix[mid] == target
+  while bottom <= top
+    middle = (top + bottom) / 2
+
+    if matrix[middle].first == target
       return true
-    elsif matrix[mid] < target
-      l = mid + 1
+    elsif matrix[middle].first < target
+      row = middle
+      bottom = middle + 1
     else
-      r = mid - 1
+      top = middle - 1
+    end
+  end
+
+  left, right = 0, matrix[middle].length - 1
+
+  while left <= right
+    middle = (right + left) / 2
+
+    if matrix[row][middle] == target
+      return true
+    elsif matrix[row][middle] < target
+      left = middle + 1
+    else
+      right = middle - 1
     end
   end
 
   false
 end
 
-# Time Complexity - O(log m * n)
+# Time Complexity - O(log m * log n)
 # Space Complexity - O(1)
