@@ -148,7 +148,8 @@
 | 832 | [Flipping an Image][q832]                        | [Ruby][s832]                      | Easy       |
 | 876 | [Middle of the Linked List][q876]                | [Ruby][s876]                      | Easy       |
 | 917 | [Reverse Only Letters][q917]                     | [Ruby][s917]                      | Easy       |
-| 922 | [Sorty Array By Parity II][q922]                 | [Ruby][s922]                      | Easy       |
+| 922 | [Sort Array By Parity II][q922]                  | [Ruby][s922]                      | Easy       |
+| 942 | [DI String Match][q942]                          | [Ruby][s942]                      | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -297,6 +298,7 @@
 [q876]:https://leetcode.com/problems/middle-of-the-linked-list/
 [q917]:https://leetcode.com/problems/reverse-only-letters/
 [q922]:https://leetcode.com/problems/sort-array-by-parity-ii/
+[q942]:https://leetcode.com/problems/di-string-match/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -439,6 +441,7 @@
 [s876]:./problems/middle_of_linked_list.rb
 [s917]:./problems/reverse_only_letters.rb
 [s922]:./problems/sort_array_by_parity_2.rb
+[s942]:./problems/di_string_match.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
