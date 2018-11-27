@@ -58,6 +58,7 @@
 | 155 | [Min Stack][q155]                                | [JavaScript][js155], [Ruby][s155] | Easy       |
 | 167 | [Two Sum II][q167]                               | [JavaScript][js167], [Ruby][s167] | Easy       |
 | 169 | [Majority Element][q169]                         | [JavaScript][js169], [Ruby][s169] | Easy       |
+| 179 | [Largest Number][q179]                           | [Ruby][s179]                      | Medium     |
 | 187 | [Repeated DNA Sequence][q187]                    | [JavaScript][js187], [Ruby][s187] | Medium     |
 | 191 | [Number of 1 Bits][q191]                         | [JavaScript][js191], [Ruby][s191] | Medium     |
 | 198 | [House Robber][q198]                             | [Ruby][s198]                      | Easy       |
@@ -207,6 +208,7 @@
 [q155]:https://leetcode.com/problems/min-stack/description/
 [q167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [q169]:https://leetcode.com/problems/majority-element/description/
+[q179]:https://leetcode.com/problems/largest-number/
 [q187]:https://leetcode.com/problems/repeated-dna-sequences/description/
 [q191]:https://leetcode.com/problems/number-of-1-bits/description/
 [q198]:https://leetcode.com/problems/house-robber/description/
@@ -355,6 +357,7 @@
 [s155]:./problems/min_stack.rb
 [s167]:./problems/two_sum_two.rb
 [s169]:./problems/majority_element.rb
+[s169]:./problems/largest_number.rb
 [s187]:./problems/repeated_dna_sequence.rb
 [s191]:./problems/number_of_1_bits.rb
 [s198]:./problems/house_robber.rb
