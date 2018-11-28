@@ -145,6 +145,7 @@
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
 | 724 | [Find Pivot Index][q724]                         | [Ruby][s724]                      | Easy       |
+| 728 | [Self Dividing Numbers][q728]                    | [Ruby][s728]                      | Easy       |
 | 747 | [Largest number at least twice others][q747]     | [Ruby][s747]                      | Easy       |
 | 832 | [Flipping an Image][q832]                        | [Ruby][s832]                      | Easy       |
 | 876 | [Middle of the Linked List][q876]                | [Ruby][s876]                      | Easy       |
@@ -295,6 +296,7 @@
 [q695]:https://leetcode.com/problems/max-area-of-island/description/
 [q697]:https://leetcode.com/problems/degree-of-an-array/description/
 [q724]:https://leetcode.com/problems/find-pivot-index/
+[q728]:https://leetcode.com/problems/self-dividing-numbers/
 [q747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 [q832]:https://leetcode.com/problems/flipping-an-image/
 [q876]:https://leetcode.com/problems/middle-of-the-linked-list/
@@ -439,6 +441,7 @@
 [s695]:./problems/max_area_of_island.rb
 [s697]:./problems/degree_of_an_array.rb
 [s724]:./problems/find_pivot_index.rb
+[s728]:./problems/self_dividing_numbers.rb
 [s747]:./problems/largest_number_twice_others.rb
 [s832]:./problems/flipping_an_image.rb
 [s876]:./problems/middle_of_linked_list.rb
