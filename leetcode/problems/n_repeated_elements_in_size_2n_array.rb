@@ -26,5 +26,14 @@
 # @param {Integer[]} a
 # @return {Integer}
 def repeated_n_times(a)
-  
+  a_count = Hash.new { |h, k| h[k] = 0 }
+  n = a.length / 2
+
+  a.each do |el|
+    a_count[el] += 1
+    return el if a_count[el] > 1
+  end
 end
+
+# Time Complexity = O(n), where n = a.length
+# Space Complexity = O(n), where n = a.length
