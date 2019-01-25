@@ -155,6 +155,7 @@
 | 922 | [Sort Array By Parity II][q922]                  | [Ruby][s922]                      | Easy       |
 | 942 | [DI String Match][q942]                          | [Ruby][s942]                      | Easy       |
 | 961 | [N-Repeated Element in Size 2N Array][q961]      | [Ruby][s961]                      | Easy       |
+| 977 | [Squares of a Sorted Array][q977]                | [Ruby][s977]                      | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -309,6 +310,7 @@
 [q922]:https://leetcode.com/problems/sort-array-by-parity-ii/
 [q942]:https://leetcode.com/problems/di-string-match/
 [q961]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[q977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -457,6 +459,7 @@
 [s922]:./problems/sort_array_by_parity_2.rb
 [s942]:./problems/di_string_match.rb
 [s961]:./problems/n_repeated_elements_in_size_2n_array.rb
+[s977]:./problems/squares_of_a_sorted_array.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
