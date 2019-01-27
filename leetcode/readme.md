@@ -150,6 +150,7 @@
 | 728 | [Self Dividing Numbers][q728]                    | [Ruby][s728]                      | Easy       |
 | 747 | [Largest number at least twice others][q747]     | [Ruby][s747]                      | Easy       |
 | 832 | [Flipping an Image][q832]                        | [Ruby][s832]                      | Easy       |
+| 860 | [Lemonade Change][q860]                          | [Ruby][s860]                      | Easy       |
 | 876 | [Middle of the Linked List][q876]                | [Ruby][s876]                      | Easy       |
 | 905 | [Sort Array By Parity][q905]                     | [Ruby][s905]                      | Easy       |
 | 917 | [Reverse Only Letters][q917]                     | [Ruby][s917]                      | Easy       |
@@ -306,6 +307,7 @@
 [q728]:https://leetcode.com/problems/self-dividing-numbers/
 [q747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 [q832]:https://leetcode.com/problems/flipping-an-image/
+[q860]:https://leetcode.com/problems/lemonade-change/
 [q876]:https://leetcode.com/problems/middle-of-the-linked-list/
 [q905]:https://leetcode.com/problems/sort-array-by-parity/
 [q917]:https://leetcode.com/problems/reverse-only-letters/
@@ -456,6 +458,7 @@
 [s728]:./problems/self_dividing_numbers.rb
 [s747]:./problems/largest_number_twice_others.rb
 [s832]:./problems/flipping_an_image.rb
+[s860]:./problems/lemonade_change.rb
 [s876]:./problems/middle_of_linked_list.rb
 [s905]:./problems/sort_array_by_parity.rb
 [s917]:./problems/reverse_only_letters.rb
