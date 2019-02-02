@@ -144,6 +144,7 @@
 | 693 | [Binary Number with Alternating Bits][q693]      | [JavaScript][js693], [Ruby][s693] | Easy       |
 | 695 | [Max Area of Island][q695]                       | [Ruby][s695]                      | Easy       |
 | 697 | [Degree of an Array][q697]                       | [Ruby][s697]                      | Easy       |
+| 706 | [Design HashMap][q706]                           | [Ruby][s706]                      | Easy       |
 | 709 | [To lower case][q709]                            | [Ruby][s709]                      | Easy       |
 | 716 | [Max Stack][q716]                                | [Ruby][s716]                      | Easy       |
 | 724 | [Find Pivot Index][q724]                         | [Ruby][s724]                      | Easy       |
@@ -305,6 +306,7 @@
 [q693]:https://leetcode.com/problems/binary-number-with-alternating-bits/description/
 [q695]:https://leetcode.com/problems/max-area-of-island/description/
 [q697]:https://leetcode.com/problems/degree-of-an-array/description/
+[q706]:https://leetcode.com/problems/design-hashmap/
 [q709]:https://leetcode.com/problems/to-lower-case/
 [q716]:https://leetcode.com/problems/max-stack/
 [q724]:https://leetcode.com/problems/find-pivot-index/
@@ -460,6 +462,7 @@
 [s693]:./problems/binary_number_with_alternating_bits.rb
 [s695]:./problems/max_area_of_island.rb
 [s697]:./problems/degree_of_an_array.rb
+[s706]:./problems/design_hashmap.rb
 [s709]:./problems/to_lower_case.rb
 [s716]:./problems/max_stack.rb
 [s724]:./problems/find_pivot_index.rb
