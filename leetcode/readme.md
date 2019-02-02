@@ -149,6 +149,7 @@
 | 724 | [Find Pivot Index][q724]                         | [Ruby][s724]                      | Easy       |
 | 728 | [Self Dividing Numbers][q728]                    | [Ruby][s728]                      | Easy       |
 | 747 | [Largest number at least twice others][q747]     | [Ruby][s747]                      | Easy       |
+| 760 | [Find Anagram Mappings][q760]                    | [Ruby][s760]                      | Easy       |
 | 796 | [Rotate String][q796]                            | [Ruby][s796]                      | Easy       |
 | 804 | [Unique Morse Code Words][q804]                  | [Ruby][s804]                      | Easy       |
 | 832 | [Flipping an Image][q832]                        | [Ruby][s832]                      | Easy       |
@@ -308,6 +309,7 @@
 [q724]:https://leetcode.com/problems/find-pivot-index/
 [q728]:https://leetcode.com/problems/self-dividing-numbers/
 [q747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
+[q760]:https://leetcode.com/problems/find-anagram-mappings/
 [q796]:https://leetcode.com/problems/rotate-string/
 [q804]:https://leetcode.com/problems/unique-morse-code-words/
 [q832]:https://leetcode.com/problems/flipping-an-image/
@@ -461,6 +463,7 @@
 [s724]:./problems/find_pivot_index.rb
 [s728]:./problems/self_dividing_numbers.rb
 [s747]:./problems/largest_number_twice_others.rb
+[s760]:./problems/find_anagram_mappings.rb
 [s796]:./problems/rotate_string.rb
 [s804]:./problems/unique_morse_code_words.rb
 [s832]:./problems/flipping_an_image.rb
