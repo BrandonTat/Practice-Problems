@@ -161,6 +161,7 @@
 | 917 | [Reverse Only Letters][q917]                     | [Ruby][s917]                      | Easy       |
 | 922 | [Sort Array By Parity II][q922]                  | [Ruby][s922]                      | Easy       |
 | 942 | [DI String Match][q942]                          | [Ruby][s942]                      | Easy       |
+| 946 | [Validate Stack Sequences][q946]                 | [Ruby][s946]                      | Medium     |
 | 961 | [N-Repeated Element in Size 2N Array][q961]      | [Ruby][s961]                      | Easy       |
 | 977 | [Squares of a Sorted Array][q977]                | [Ruby][s977]                      | Easy       |
 
@@ -323,6 +324,7 @@
 [q917]:https://leetcode.com/problems/reverse-only-letters/
 [q922]:https://leetcode.com/problems/sort-array-by-parity-ii/
 [q942]:https://leetcode.com/problems/di-string-match/
+[q946]:https://leetcode.com/problems/validate-stack-sequences/
 [q961]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [q977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 
@@ -479,6 +481,7 @@
 [s917]:./problems/reverse_only_letters.rb
 [s922]:./problems/sort_array_by_parity_2.rb
 [s942]:./problems/di_string_match.rb
+[s946]:./problems/validate_stack_sequences.rb
 [s961]:./problems/n_repeated_elements_in_size_2n_array.rb
 [s977]:./problems/squares_of_a_sorted_array.rb
 
