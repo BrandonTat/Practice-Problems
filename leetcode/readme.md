@@ -160,6 +160,7 @@
 | 905 | [Sort Array By Parity][q905]                     | [Ruby][s905]                      | Easy       |
 | 917 | [Reverse Only Letters][q917]                     | [Ruby][s917]                      | Easy       |
 | 922 | [Sort Array By Parity II][q922]                  | [Ruby][s922]                      | Easy       |
+| 931 | [Minimum Falling Path Sum][q931]                 | [Ruby][s931]                      | Medium     |
 | 942 | [DI String Match][q942]                          | [Ruby][s942]                      | Easy       |
 | 946 | [Validate Stack Sequences][q946]                 | [Ruby][s946]                      | Medium     |
 | 961 | [N-Repeated Element in Size 2N Array][q961]      | [Ruby][s961]                      | Easy       |
@@ -323,6 +324,7 @@
 [q905]:https://leetcode.com/problems/sort-array-by-parity/
 [q917]:https://leetcode.com/problems/reverse-only-letters/
 [q922]:https://leetcode.com/problems/sort-array-by-parity-ii/
+[q931]:https://leetcode.com/problems/minimum-falling-path-sum/
 [q942]:https://leetcode.com/problems/di-string-match/
 [q946]:https://leetcode.com/problems/validate-stack-sequences/
 [q961]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
@@ -480,6 +482,7 @@
 [s905]:./problems/sort_array_by_parity.rb
 [s917]:./problems/reverse_only_letters.rb
 [s922]:./problems/sort_array_by_parity_2.rb
+[s931]:./problems/minimum_falling_path_sum.rb
 [s942]:./problems/di_string_match.rb
 [s946]:./problems/validate_stack_sequences.rb
 [s961]:./problems/n_repeated_elements_in_size_2n_array.rb
