@@ -166,6 +166,7 @@
 | 961 | [N-Repeated Element in Size 2N Array][q961]      | [Ruby][s961]                      | Easy       |
 | 977 | [Squares of a Sorted Array][q977]                | [Ruby][s977]                      | Easy       |
 | 985 | [Sum of Even Numbers After Queries][q985]        | [Ruby][s985]                      | Easy       |
+| 989 | [Add to Array-Form of Integer][q989]             | [Ruby][s989]                      | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -331,6 +332,7 @@
 [q961]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [q977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [q985]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
+[q989]:https://leetcode.com/problems/add-to-array-form-of-integer/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -490,6 +492,7 @@
 [s961]:./problems/n_repeated_elements_in_size_2n_array.rb
 [s977]:./problems/squares_of_a_sorted_array.rb
 [s985]:./problems/sum_of_even_numbers_after_queries.rb
+[s989]:./problems/add_to_array_form_of_integer.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
