@@ -18,13 +18,13 @@ def two_sum(nums, target)
   seen = {}
 
   nums.each_with_index do |num, idx|
-    other_idx = seen[target - num]
+    needed_num = target - num
 
-    if other_idx && other_idx != idx
-      return [other_idx, idx]
+    if seen.key?(needed_num)
+      return [seen[needed_num], idx]
+    else
+      seen[num] = idx
     end
-
-    seen[num] = idx
   end
 end
 
