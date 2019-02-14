@@ -165,6 +165,7 @@
 | 942 | [DI String Match][q942]                          | [Ruby][s942]                      | Easy       |
 | 946 | [Validate Stack Sequences][q946]                 | [Ruby][s946]                      | Medium     |
 | 961 | [N-Repeated Element in Size 2N Array][q961]      | [Ruby][s961]                      | Easy       |
+| 965 | [Univalued Binary Tree][q965]                    | [Ruby][s965]                      | Easy       |
 | 977 | [Squares of a Sorted Array][q977]                | [Ruby][s977]                      | Easy       |
 | 985 | [Sum of Even Numbers After Queries][q985]        | [Ruby][s985]                      | Easy       |
 | 989 | [Add to Array-Form of Integer][q989]             | [Ruby][s989]                      | Easy       |
@@ -332,6 +333,7 @@
 [q942]:https://leetcode.com/problems/di-string-match/
 [q946]:https://leetcode.com/problems/validate-stack-sequences/
 [q961]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[q965]:https://leetcode.com/problems/univalued-binary-tree/
 [q977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [q985]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [q989]:https://leetcode.com/problems/add-to-array-form-of-integer/
@@ -493,6 +495,7 @@
 [s942]:./problems/di_string_match.rb
 [s946]:./problems/validate_stack_sequences.rb
 [s961]:./problems/n_repeated_elements_in_size_2n_array.rb
+[s965]:./problems/univalued_binary_tree.rb
 [s977]:./problems/squares_of_a_sorted_array.rb
 [s985]:./problems/sum_of_even_numbers_after_queries.rb
 [s989]:./problems/add_to_array_form_of_integer.rb
