@@ -65,7 +65,7 @@ def oranges_rotting(grid)
     new_rotten_positions = []
 
     rotten_positions.each do |rotten_position|
-      to_check = build_check_positions(rotten_position, number_of_rows, number_of_cols)
+      to_check = build_check_positions(rotten_position, number_of_rows, number_of_rows)
 
       to_check.each do |check|
         row, col = check
@@ -82,11 +82,11 @@ def oranges_rotting(grid)
     number_of_minutes += 1
   end
 
-  number_of_fresh_oranges.zero? ? number_of_minutes : -1
+  rotten_positions.empty? ? number_of_minutes : -1
 end
 
 
-def build_check_positions(position, number_of_rows, number_of_cols)
+def build_check_positions(position, number_of_rows, number_of_rows)
   possible_positions = [[0, -1], [-1, 0], [0, 1], [1, 0]]
   valid_positions = []
 
