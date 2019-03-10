@@ -170,6 +170,7 @@
 | 985 | [Sum of Even Numbers After Queries][q985]        | [Ruby][s985]                      | Easy       |
 | 989 | [Add to Array-Form of Integer][q989]             | [Ruby][s989]                      | Easy       |
 | 994 | [Rotting Oranges][q994]                          | [Ruby][s994]                      | Easy       |
+| 999 | [Available Captures for Rook][q999]              | [Ruby][s999]                      | Easy       |
 
 [q1]:https://leetcode.com/problems/two-sum/description/
 [q2]:https://leetcode.com/problems/add-two-numbers/description/
@@ -339,6 +340,7 @@
 [q985]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [q989]:https://leetcode.com/problems/add-to-array-form-of-integer/
 [q994]:https://leetcode.com/problems/rotting-oranges/
+[q999]:https://leetcode.com/problems/available-captures-for-rook/
 
 [s1]:./problems/two_sum.rb
 [s2]:./problems/add_two_numbers.rb
@@ -502,6 +504,7 @@
 [s985]:./problems/sum_of_even_numbers_after_queries.rb
 [s989]:./problems/add_to_array_form_of_integer.rb
 [s994]:./problems/rotting_oranges.rb
+[s999]:./problems/available_captures_for_rook.rb
 
 [js1]:./javascript_problems/two_sum.js
 [js9]:./javascript_problems/palindrome_number.js
