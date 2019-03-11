@@ -168,6 +168,7 @@
 | 965 | [Univalued Binary Tree][q965]                    | [Ruby][s965]                      | Easy       |
 | 977 | [Squares of a Sorted Array][q977]                | [Ruby][s977]                      | Easy       |
 | 985 | [Sum of Even Numbers After Queries][q985]        | [Ruby][s985]                      | Easy       |
+| 986 | [Interval List Intersections][q986]              | [Ruby][s986]                      | Easy       |
 | 989 | [Add to Array-Form of Integer][q989]             | [Ruby][s989]                      | Easy       |
 | 994 | [Rotting Oranges][q994]                          | [Ruby][s994]                      | Easy       |
 | 999 | [Available Captures for Rook][q999]              | [Ruby][s999]                      | Easy       |
@@ -338,6 +339,7 @@
 [q965]:https://leetcode.com/problems/univalued-binary-tree/
 [q977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [q985]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
+[q986]:https://leetcode.com/problems/interval-list-intersections/
 [q989]:https://leetcode.com/problems/add-to-array-form-of-integer/
 [q994]:https://leetcode.com/problems/rotting-oranges/
 [q999]:https://leetcode.com/problems/available-captures-for-rook/
@@ -502,6 +504,7 @@
 [s965]:./problems/univalued_binary_tree.rb
 [s977]:./problems/squares_of_a_sorted_array.rb
 [s985]:./problems/sum_of_even_numbers_after_queries.rb
+[s986]:./problems/interval_list_intersections.rb
 [s989]:./problems/add_to_array_form_of_integer.rb
 [s994]:./problems/rotting_oranges.rb
 [s999]:./problems/available_captures_for_rook.rb
